@@ -46,7 +46,7 @@ __Notepad++ installer__
 ```
 - `/S` - тихая установка .exe-файлов
 ---
-### jre_installer.bat
+### `jre_installer.bat`
 ```shell
 mkdir C:\Java\JRE
 echo INSTALL_SILENT=Enable> %cd%jcfg42.txt
