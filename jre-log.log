@@ -1,0 +1,848 @@
+=== Verbose logging started: 28.03.2020  15:32:29  Build type: SHIP UNICODE 5.00.10011.00  Calling process: C:\Users\itrus\AppData\Local\Temp\jds221161296.tmp\jre-8u241-windows-x64.exe ===
+MSI (c) (BC:A8) [15:32:29:189]: Resetting cached policy values
+MSI (c) (BC:A8) [15:32:29:189]: Machine policy value 'Debug' is 0
+MSI (c) (BC:A8) [15:32:29:189]: ******* RunEngine:
+           ******* Product: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\jre1.8.0_24164.msi
+           ******* Action:
+           ******* CommandLine: **********
+MSI (c) (BC:A8) [15:32:29:189]: Client-side and UI is none or basic: Running entire install on the server.
+MSI (c) (BC:A8) [15:32:29:189]: Grabbed execution mutex.
+MSI (c) (BC:A8) [15:32:29:194]: Cloaking enabled.
+MSI (c) (BC:A8) [15:32:29:194]: Attempting to enable all disabled privileges before calling Install on Server
+MSI (c) (BC:A8) [15:32:29:194]: Incrementing counter to disable shutdown. Counter after increment: 0
+MSI (s) (84:B8) [15:32:29:197]: Running installation inside multi-package transaction C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\jre1.8.0_24164.msi
+MSI (s) (84:B8) [15:32:29:197]: Grabbed execution mutex.
+MSI (s) (84:64) [15:32:29:198]: Resetting cached policy values
+MSI (s) (84:64) [15:32:29:198]: Machine policy value 'Debug' is 0
+MSI (s) (84:64) [15:32:29:198]: ******* RunEngine:
+           ******* Product: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\jre1.8.0_24164.msi
+           ******* Action:
+           ******* CommandLine: **********
+MSI (s) (84:64) [15:32:29:206]: Machine policy value 'DisableUserInstalls' is 0
+MSI (s) (84:64) [15:32:29:213]: Note: 1: 2203 2: C:\WINDOWS\Installer\inprogressinstallinfo.ipi 3: -2147287038
+MSI (s) (84:64) [15:32:29:214]: SRSetRestorePoint skipped for this transaction.
+MSI (s) (84:64) [15:32:29:216]: File will have security applied from OpCode.
+MSI (s) (84:64) [15:32:29:273]: SOFTWARE RESTRICTION POLICY: Verifying package --> 'C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\jre1.8.0_24164.msi' against software restriction policy
+MSI (s) (84:64) [15:32:29:275]: SOFTWARE RESTRICTION POLICY: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\jre1.8.0_24164.msi has a digital signature
+MSI (s) (84:64) [15:32:29:372]: SOFTWARE RESTRICTION POLICY: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\jre1.8.0_24164.msi is permitted to run at the 'unrestricted' authorization level.
+MSI (s) (84:64) [15:32:29:372]: MSCOREE not loaded loading copy from system32
+MSI (s) (84:64) [15:32:29:375]: End dialog not enabled
+MSI (s) (84:64) [15:32:29:375]: Original package ==> C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\jre1.8.0_24164.msi
+MSI (s) (84:64) [15:32:29:375]: Package we're running from ==> C:\WINDOWS\Installer\d2eaca3.msi
+MSI (s) (84:64) [15:32:29:376]: APPCOMPAT: Compatibility mode property overrides found.
+MSI (s) (84:64) [15:32:29:377]: APPCOMPAT: looking for appcompat database entry with ProductCode '{26A24AE4-039D-4CA4-87B4-2F64180241F0}'.
+MSI (s) (84:64) [15:32:29:377]: APPCOMPAT: no matching ProductCode found in database.
+MSI (s) (84:64) [15:32:29:382]: Machine policy value 'TransformsSecure' is 0
+MSI (s) (84:64) [15:32:29:382]: User policy value 'TransformsAtSource' is 0
+MSI (s) (84:64) [15:32:29:383]: Note: 1: 2205 2:  3: MsiFileHash
+MSI (s) (84:64) [15:32:29:383]: Machine policy value 'DisablePatch' is 0
+MSI (s) (84:64) [15:32:29:383]: Machine policy value 'AllowLockdownPatch' is 0
+MSI (s) (84:64) [15:32:29:383]: Machine policy value 'DisableLUAPatching' is 0
+MSI (s) (84:64) [15:32:29:383]: Machine policy value 'DisableFlyWeightPatching' is 0
+MSI (s) (84:64) [15:32:29:383]: APPCOMPAT: looking for appcompat database entry with ProductCode '{26A24AE4-039D-4CA4-87B4-2F64180241F0}'.
+MSI (s) (84:64) [15:32:29:383]: APPCOMPAT: no matching ProductCode found in database.
+MSI (s) (84:64) [15:32:29:383]: Transforms are not secure.
+MSI (s) (84:64) [15:32:29:383]: Note: 1: 2205 2:  3: Control
+MSI (s) (84:64) [15:32:29:383]: PROPERTY CHANGE: Adding MsiLogFileLocation property. Its value is 'C:\jre-log.log'.
+MSI (s) (84:64) [15:32:29:384]: Command Line: INSTALL_SILENT=Enable WEB_JAVA=Enable WEB_ANALYTICS=Disable INSTALLDIR=C:\Java\JRE INSTALLCFG=C:\jcfg42.txt INSTALLDIR=C:\Java\JRE CURRENTDIRECTORY=C:\Users\itrus\AppData\Local\Temp\jds221161296.tmp CLIENTUILEVEL=3 MSICLIENTUSESEXTERNALUI=1 CLIENTPROCESSID=7100
+MSI (s) (84:64) [15:32:29:384]: PROPERTY CHANGE: Adding PackageCode property. Its value is '{6A188D4B-E123-4138-8A0E-7A5B16115217}'.
+MSI (s) (84:64) [15:32:29:384]: Product Code passed to Engine.Initialize:           ''
+MSI (s) (84:64) [15:32:29:384]: Product Code from property table before transforms: '{26A24AE4-039D-4CA4-87B4-2F64180241F0}'
+MSI (s) (84:64) [15:32:29:384]: Product Code from property table after transforms:  '{26A24AE4-039D-4CA4-87B4-2F64180241F0}'
+MSI (s) (84:64) [15:32:29:384]: Product not registered: beginning first-time install
+MSI (s) (84:64) [15:32:29:384]: Product {26A24AE4-039D-4CA4-87B4-2F64180241F0} is not managed.
+MSI (s) (84:64) [15:32:29:384]: MSI_LUA: Credential prompt not required, user is an admin
+MSI (s) (84:64) [15:32:29:384]: PROPERTY CHANGE: Adding ProductState property. Its value is '-1'.
+MSI (s) (84:64) [15:32:29:384]: Entering CMsiConfigurationManager::SetLastUsedSource.
+MSI (s) (84:64) [15:32:29:384]: User policy value 'SearchOrder' is 'nmu'
+MSI (s) (84:64) [15:32:29:384]: Adding new sources is allowed.
+MSI (s) (84:64) [15:32:29:384]: PROPERTY CHANGE: Adding PackagecodeChanging property. Its value is '1'.
+MSI (s) (84:64) [15:32:29:384]: Package name extracted from package path: 'jre1.8.0_24164.msi'
+MSI (s) (84:64) [15:32:29:384]: Package to be registered: 'jre1.8.0_24164.msi'
+MSI (s) (84:64) [15:32:29:385]: Note: 1: 2262 2: AdminProperties 3: -2147287038
+MSI (s) (84:64) [15:32:29:385]: Machine policy value 'DisableMsi' is 0
+MSI (s) (84:64) [15:32:29:385]: Machine policy value 'AlwaysInstallElevated' is 0
+MSI (s) (84:64) [15:32:29:385]: User policy value 'AlwaysInstallElevated' is 0
+MSI (s) (84:64) [15:32:29:385]: Product installation will be elevated because user is admin and product is being installed per-machine.
+MSI (s) (84:64) [15:32:29:386]: Running product '{26A24AE4-039D-4CA4-87B4-2F64180241F0}' with elevated privileges: Product is assigned.
+MSI (s) (84:64) [15:32:29:386]: PROPERTY CHANGE: Adding INSTALL_SILENT property. Its value is 'Enable'.
+MSI (s) (84:64) [15:32:29:386]: PROPERTY CHANGE: Adding WEB_JAVA property. Its value is 'Enable'.
+MSI (s) (84:64) [15:32:29:386]: PROPERTY CHANGE: Adding WEB_ANALYTICS property. Its value is 'Disable'.
+MSI (s) (84:64) [15:32:29:386]: PROPERTY CHANGE: Adding INSTALLDIR property. Its value is 'C:\Java\JRE'.
+MSI (s) (84:64) [15:32:29:386]: PROPERTY CHANGE: Adding INSTALLCFG property. Its value is 'C:\jcfg42.txt'.
+MSI (s) (84:64) [15:32:29:386]: PROPERTY CHANGE: Adding CURRENTDIRECTORY property. Its value is 'C:\Users\itrus\AppData\Local\Temp\jds221161296.tmp'.
+MSI (s) (84:64) [15:32:29:386]: PROPERTY CHANGE: Adding CLIENTUILEVEL property. Its value is '3'.
+MSI (s) (84:64) [15:32:29:386]: PROPERTY CHANGE: Adding MSICLIENTUSESEXTERNALUI property. Its value is '1'.
+MSI (s) (84:64) [15:32:29:386]: PROPERTY CHANGE: Adding CLIENTPROCESSID property. Its value is '7100'.
+MSI (s) (84:64) [15:32:29:386]: Machine policy value 'DisableAutomaticApplicationShutdown' is 0
+MSI (s) (84:64) [15:32:29:386]: RESTART MANAGER: Disabled by MSIRESTARTMANAGERCONTROL property; Windows Installer will use the built-in FilesInUse functionality.
+MSI (s) (84:64) [15:32:29:386]: TRANSFORMS property is now:
+MSI (s) (84:64) [15:32:29:386]: PROPERTY CHANGE: Adding VersionDatabase property. Its value is '200'.
+MSI (s) (84:64) [15:32:29:387]: SHELL32::SHGetFolderPath returned: C:\Users\itrus\AppData\Roaming
+MSI (s) (84:64) [15:32:29:389]: SHELL32::SHGetFolderPath returned: C:\Users\itrus\Favorites
+MSI (s) (84:64) [15:32:29:390]: SHELL32::SHGetFolderPath returned: C:\Users\itrus\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+MSI (s) (84:64) [15:32:29:391]: SHELL32::SHGetFolderPath returned: C:\Users\itrus\Documents
+MSI (s) (84:64) [15:32:29:392]: SHELL32::SHGetFolderPath returned: C:\Users\itrus\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+MSI (s) (84:64) [15:32:29:393]: SHELL32::SHGetFolderPath returned: C:\Users\itrus\AppData\Roaming\Microsoft\Windows\Recent
+MSI (s) (84:64) [15:32:29:394]: SHELL32::SHGetFolderPath returned: C:\Users\itrus\AppData\Roaming\Microsoft\Windows\SendTo
+MSI (s) (84:64) [15:32:29:395]: SHELL32::SHGetFolderPath returned: C:\Users\itrus\AppData\Roaming\Microsoft\Windows\Templates
+MSI (s) (84:64) [15:32:29:395]: SHELL32::SHGetFolderPath returned: C:\ProgramData
+MSI (s) (84:64) [15:32:29:396]: SHELL32::SHGetFolderPath returned: C:\Users\itrus\AppData\Local
+MSI (s) (84:64) [15:32:29:397]: SHELL32::SHGetFolderPath returned: C:\Users\itrus\Pictures
+MSI (s) (84:64) [15:32:29:399]: SHELL32::SHGetFolderPath returned: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools
+MSI (s) (84:64) [15:32:29:400]: SHELL32::SHGetFolderPath returned: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup
+MSI (s) (84:64) [15:32:29:400]: SHELL32::SHGetFolderPath returned: C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+MSI (s) (84:64) [15:32:29:401]: SHELL32::SHGetFolderPath returned: C:\ProgramData\Microsoft\Windows\Start Menu
+MSI (s) (84:64) [15:32:29:402]: SHELL32::SHGetFolderPath returned: C:\Users\Public\Desktop
+MSI (s) (84:64) [15:32:29:404]: SHELL32::SHGetFolderPath returned: C:\Users\itrus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools
+MSI (s) (84:64) [15:32:29:404]: SHELL32::SHGetFolderPath returned: C:\Users\itrus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+MSI (s) (84:64) [15:32:29:405]: SHELL32::SHGetFolderPath returned: C:\Users\itrus\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+MSI (s) (84:64) [15:32:29:406]: SHELL32::SHGetFolderPath returned: C:\Users\itrus\AppData\Roaming\Microsoft\Windows\Start Menu
+MSI (s) (84:64) [15:32:29:407]: SHELL32::SHGetFolderPath returned: C:\Users\itrus\Desktop
+MSI (s) (84:64) [15:32:29:408]: SHELL32::SHGetFolderPath returned: C:\ProgramData\Microsoft\Windows\Templates
+MSI (s) (84:64) [15:32:29:408]: SHELL32::SHGetFolderPath returned: C:\WINDOWS\Fonts
+MSI (s) (84:64) [15:32:29:408]: Note: 1: 2898 2: MS Sans Serif 3: MS Sans Serif 4: 0 5: 16
+MSI (s) (84:64) [15:32:29:414]: MSI_LUA: Setting MsiRunningElevated property to 1 because the install is already running elevated.
+MSI (s) (84:64) [15:32:29:414]: PROPERTY CHANGE: Adding MsiRunningElevated property. Its value is '1'.
+MSI (s) (84:64) [15:32:29:414]: PROPERTY CHANGE: Adding Privileged property. Its value is '1'.
+MSI (s) (84:64) [15:32:29:414]: Note: 1: 1402 2: HKEY_CURRENT_USER\Software\Microsoft\MS Setup (ACME)\User Info 3: 2
+MSI (s) (84:64) [15:32:29:414]: PROPERTY CHANGE: Adding USERNAME property. Its value is 'itrushin99@gmail.com'.
+MSI (s) (84:64) [15:32:29:414]: Note: 1: 1402 2: HKEY_CURRENT_USER\Software\Microsoft\MS Setup (ACME)\User Info 3: 2
+MSI (s) (84:64) [15:32:29:414]: PROPERTY CHANGE: Adding DATABASE property. Its value is 'C:\WINDOWS\Installer\d2eaca3.msi'.
+MSI (s) (84:64) [15:32:29:414]: PROPERTY CHANGE: Adding OriginalDatabase property. Its value is 'C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\jre1.8.0_24164.msi'.
+MSI (s) (84:64) [15:32:29:414]: Machine policy value 'MsiDisableEmbeddedUI' is 0
+MSI (s) (84:64) [15:32:29:414]: EEUI - Disabling MsiEmbeddedUI due to existing external or embedded UI
+MSI (s) (84:64) [15:32:29:414]: EEUI - Disabling MsiEmbeddedUI for service because it's not a quiet/basic install
+MSI (s) (84:64) [15:32:29:415]: Note: 1: 2205 2:  3: PatchPackage
+MSI (s) (84:64) [15:32:29:415]: Machine policy value 'DisableRollback' is 0
+MSI (s) (84:64) [15:32:29:415]: User policy value 'DisableRollback' is 0
+MSI (s) (84:64) [15:32:29:415]: PROPERTY CHANGE: Adding UILevel property. Its value is '2'.
+=== Logging started: 28.03.2020  15:32:29 ===
+MSI (s) (84:64) [15:32:29:415]: Note: 1: 2203 2: C:\WINDOWS\Installer\inprogressinstallinfo.ipi 3: -2147287038
+MSI (s) (84:64) [15:32:29:415]: APPCOMPAT: [DetectVersionLaunchCondition] Launch condition already passes.
+MSI (s) (84:64) [15:32:29:416]: PROPERTY CHANGE: Adding ACTION property. Its value is 'INSTALL'.
+MSI (s) (84:64) [15:32:29:416]: Doing action: INSTALL
+Action start 15:32:29: INSTALL.
+MSI (s) (84:64) [15:32:29:416]: Running ExecuteSequence
+MSI (s) (84:64) [15:32:29:416]: Doing action: SetSilentInstall
+MSI (s) (84:64) [15:32:29:417]: PROPERTY CHANGE: Adding SILENT property. Its value is '/s'.
+Action start 15:32:29: SetSilentInstall.
+MSI (s) (84:64) [15:32:29:417]: Doing action: SetINSTALL_SILENTarg
+Action ended 15:32:29: SetSilentInstall. Return value 1.
+MSI (s) (84:64) [15:32:29:418]: PROPERTY CHANGE: Modifying INSTALL_SILENT property. Its current value is 'Enable'. Its new value: '1'.
+Action start 15:32:29: SetINSTALL_SILENTarg.
+MSI (s) (84:64) [15:32:29:418]: Doing action: SetMSICMDLine
+Action ended 15:32:29: SetINSTALL_SILENTarg. Return value 1.
+MSI (s) (84:64) [15:32:29:419]: PROPERTY CHANGE: Adding MSICMDLINE property. Its value is '/s INSTALLCFG="C:\jcfg42.txt" INSTALL_SILENT=1'.
+Action start 15:32:29: SetMSICMDLine.
+MSI (s) (84:64) [15:32:29:419]: Doing action: LoadMsiPropertiesFromConfig
+Action ended 15:32:29: SetMSICMDLine. Return value 1.
+MSI (s) (84:FC) [15:32:29:422]: Invoking remote custom action. DLL: C:\WINDOWS\Installer\MSIB676.tmp, Entrypoint: MSILoadMsiPropertiesFromConfig
+MSI (s) (84:2C) [15:32:29:422]: Generating random cookie.
+MSI (s) (84:2C) [15:32:29:426]: Created Custom Action Server with PID 5964 (0x174C).
+MSI (s) (84:A8) [15:32:29:451]: Running as a service.
+MSI (s) (84:A8) [15:32:29:456]: Hello, I'm your 64bit Impersonated custom action server.
+MSI (s) (84!10) [15:32:29:475]: PROPERTY CHANGE: Adding REMOVEOLDERJRES property. Its value is '0'.
+Action start 15:32:29: LoadMsiPropertiesFromConfig.
+MSI (s) (84:64) [15:32:29:477]: Doing action: AppSearch
+Action ended 15:32:29: LoadMsiPropertiesFromConfig. Return value 1.
+Action start 15:32:29: AppSearch.
+MSI (s) (84:64) [15:32:29:478]: Note: 1: 2262 2: Signature 3: -2147287038
+MSI (s) (84:64) [15:32:29:478]: PROPERTY CHANGE: Adding ITANIUM property. Its value is 'AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx  '.
+MSI (s) (84:64) [15:32:29:478]: Doing action: LaunchConditions
+Action ended 15:32:29: AppSearch. Return value 1.
+Action start 15:32:29: LaunchConditions.
+MSI (s) (84:64) [15:32:29:479]: Skipping action: FindRelatedProducts (condition is false)
+MSI (s) (84:64) [15:32:29:479]: Doing action: ValidateProductID
+Action ended 15:32:29: LaunchConditions. Return value 1.
+Action start 15:32:29: ValidateProductID.
+MSI (s) (84:64) [15:32:29:480]: Doing action: CostInitialize
+Action ended 15:32:29: ValidateProductID. Return value 1.
+MSI (s) (84:64) [15:32:29:480]: Machine policy value 'MaxPatchCacheSize' is 10
+MSI (s) (84:64) [15:32:29:482]: PROPERTY CHANGE: Adding ROOTDRIVE property. Its value is 'C:\'.
+MSI (s) (84:64) [15:32:29:482]: PROPERTY CHANGE: Adding CostingComplete property. Its value is '0'.
+MSI (s) (84:64) [15:32:29:482]: Note: 1: 2205 2:  3: Patch
+MSI (s) (84:64) [15:32:29:482]: Note: 1: 2205 2:  3: PatchPackage
+MSI (s) (84:64) [15:32:29:482]: Note: 1: 2205 2:  3: MsiPatchHeaders
+MSI (s) (84:64) [15:32:29:482]: Note: 1: 2205 2:  3: __MsiPatchFileList
+MSI (s) (84:64) [15:32:29:482]: Note: 1: 2205 2:  3: PatchPackage
+MSI (s) (84:64) [15:32:29:482]: Note: 1: 2228 2:  3: PatchPackage 4: SELECT `DiskId`, `PatchId`, `LastSequence` FROM `Media`, `PatchPackage` WHERE `Media`.`DiskId`=`PatchPackage`.`Media_` ORDER BY `DiskId`
+MSI (s) (84:64) [15:32:29:482]: Note: 1: 2205 2:  3: Patch
+Action start 15:32:29: CostInitialize.
+MSI (s) (84:64) [15:32:29:483]: Doing action: FileCost
+Action ended 15:32:29: CostInitialize. Return value 1.
+MSI (s) (84:64) [15:32:29:483]: Note: 1: 2205 2:  3: MsiAssembly
+MSI (s) (84:64) [15:32:29:483]: Note: 1: 2205 2:  3: Class
+MSI (s) (84:64) [15:32:29:483]: Note: 1: 2205 2:  3: Extension
+MSI (s) (84:64) [15:32:29:483]: Note: 1: 2205 2:  3: TypeLib
+Action start 15:32:29: FileCost.
+MSI (s) (84:64) [15:32:29:484]: Doing action: IsolateComponents
+Action ended 15:32:29: FileCost. Return value 1.
+Action start 15:32:29: IsolateComponents.
+MSI (s) (84:64) [15:32:29:484]: Doing action: CostFinalize
+Action ended 15:32:29: IsolateComponents. Return value 0.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding OutOfDiskSpace property. Its value is '0'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding OutOfNoRbDiskSpace property. Its value is '0'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding PrimaryVolumeSpaceAvailable property. Its value is '0'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding PrimaryVolumeSpaceRequired property. Its value is '0'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding PrimaryVolumeSpaceRemaining property. Its value is '0'.
+MSI (s) (84:64) [15:32:29:485]: Note: 1: 2205 2:  3: Patch
+MSI (s) (84:64) [15:32:29:485]: Note: 1: 2205 2:  3: Condition
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding TARGETDIR property. Its value is 'C:\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding JAVA property. Its value is 'C:\Program Files\Java\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Modifying INSTALLDIR property. Its current value is 'C:\Java\JRE'. Its new value: 'C:\Java\JRE\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding lib property. Its value is 'C:\Java\JRE\lib\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding _ac8c9a16cf533cc43453382b858e383f property. Its value is 'C:\Java\JRE\lib\security\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding _1b1245816caef90e460581e15a152088 property. Its value is 'C:\Java\JRE\lib\security\policy\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding _b62ba9979d9717a5fa931c4a59913eac property. Its value is 'C:\Java\JRE\lib\security\policy\unlimited\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding _9e9c1d68a5877ae9e0a0f6da0e319def property. Its value is 'C:\Java\JRE\lib\security\policy\limited\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding _f77a91ab67770066f2f70a4e866bd6f2 property. Its value is 'C:\Java\JRE\lib\management\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding _d1ed20383ad490620fad8f7ef2604694 property. Its value is 'C:\Java\JRE\lib\jfr\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding _7d1f0c8cd0b6b5085edce7191d2e13fc property. Its value is 'C:\Java\JRE\lib\images\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding _5a3e43326288376ac3187591163d3e2f property. Its value is 'C:\Java\JRE\lib\images\cursors\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding _5e1f669a5e9d610a961db04cbf67fac1 property. Its value is 'C:\Java\JRE\lib\fonts\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding _0c75b84d1f54adf58811ac9c654e761d property. Its value is 'C:\Java\JRE\lib\ext\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding _af4c2cd3f329594ff7e36333541620e5 property. Its value is 'C:\Java\JRE\lib\deploy\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding _c2d55fde7f416db49c114d6bbf5af1ea property. Its value is 'C:\Java\JRE\lib\cmm\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding _d878822f4918e07c26e3734b38129527 property. Its value is 'C:\Java\JRE\lib\applet\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding _45f51046d19911303d987511d07fd09d property. Its value is 'C:\Java\JRE\lib\amd64\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding bin property. Its value is 'C:\Java\JRE\bin\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding _001a61a942509398ff9e5251fe7206d3 property. Its value is 'C:\Java\JRE\bin\server\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding _6d48374b37a00457e1f08bafe7ba2dda property. Its value is 'C:\Java\JRE\bin\plugin2\'.
+MSI (s) (84:64) [15:32:29:485]: PROPERTY CHANGE: Adding _b8561938743986152bb2ee373a8d75ad property. Its value is 'C:\Java\JRE\bin\dtplugin\'.
+MSI (s) (84:64) [15:32:29:485]: Target path resolution complete. Dumping Directory table...
+MSI (s) (84:64) [15:32:29:485]: Note: target paths subject to change (via custom actions or browsing)
+MSI (s) (84:64) [15:32:29:485]: Dir (target): Key: TARGETDIR	, Object: C:\
+MSI (s) (84:64) [15:32:29:485]: Dir (target): Key: WindowsFolder	, Object: C:\WINDOWS\
+MSI (s) (84:64) [15:32:29:485]: Dir (target): Key: ProgramFiles64Folder	, Object: C:\Program Files\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: JAVA	, Object: C:\Program Files\Java\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: INSTALLDIR	, Object: C:\Java\JRE\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: lib	, Object: C:\Java\JRE\lib\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: _ac8c9a16cf533cc43453382b858e383f	, Object: C:\Java\JRE\lib\security\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: _1b1245816caef90e460581e15a152088	, Object: C:\Java\JRE\lib\security\policy\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: _b62ba9979d9717a5fa931c4a59913eac	, Object: C:\Java\JRE\lib\security\policy\unlimited\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: _9e9c1d68a5877ae9e0a0f6da0e319def	, Object: C:\Java\JRE\lib\security\policy\limited\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: _f77a91ab67770066f2f70a4e866bd6f2	, Object: C:\Java\JRE\lib\management\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: _d1ed20383ad490620fad8f7ef2604694	, Object: C:\Java\JRE\lib\jfr\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: _7d1f0c8cd0b6b5085edce7191d2e13fc	, Object: C:\Java\JRE\lib\images\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: _5a3e43326288376ac3187591163d3e2f	, Object: C:\Java\JRE\lib\images\cursors\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: _5e1f669a5e9d610a961db04cbf67fac1	, Object: C:\Java\JRE\lib\fonts\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: _0c75b84d1f54adf58811ac9c654e761d	, Object: C:\Java\JRE\lib\ext\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: _af4c2cd3f329594ff7e36333541620e5	, Object: C:\Java\JRE\lib\deploy\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: _c2d55fde7f416db49c114d6bbf5af1ea	, Object: C:\Java\JRE\lib\cmm\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: _d878822f4918e07c26e3734b38129527	, Object: C:\Java\JRE\lib\applet\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: _45f51046d19911303d987511d07fd09d	, Object: C:\Java\JRE\lib\amd64\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: bin	, Object: C:\Java\JRE\bin\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: _001a61a942509398ff9e5251fe7206d3	, Object: C:\Java\JRE\bin\server\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: _6d48374b37a00457e1f08bafe7ba2dda	, Object: C:\Java\JRE\bin\plugin2\
+MSI (s) (84:64) [15:32:29:486]: Dir (target): Key: _b8561938743986152bb2ee373a8d75ad	, Object: C:\Java\JRE\bin\dtplugin\
+Action start 15:32:29: CostFinalize.
+MSI (s) (84:64) [15:32:29:486]: Doing action: SetARPINSTALLLOCATION
+Action ended 15:32:29: CostFinalize. Return value 1.
+MSI (s) (84:64) [15:32:29:487]: PROPERTY CHANGE: Adding ARPINSTALLLOCATION property. Its value is 'C:\Java\JRE\'.
+Action start 15:32:29: SetARPINSTALLLOCATION.
+MSI (s) (84:64) [15:32:29:487]: Doing action: SetARPPRODUCTICON
+Action ended 15:32:29: SetARPINSTALLLOCATION. Return value 1.
+MSI (s) (84:64) [15:32:29:487]: PROPERTY CHANGE: Adding ARPPRODUCTICON property. Its value is 'C:\Java\JRE\\bin\javaws.exe'.
+Action start 15:32:29: SetARPPRODUCTICON.
+MSI (s) (84:64) [15:32:29:488]: Skipping action: SetRepairMode (condition is false)
+MSI (s) (84:64) [15:32:29:488]: Doing action: SetCMDLine
+Action ended 15:32:29: SetARPPRODUCTICON. Return value 1.
+MSI (s) (84:64) [15:32:29:488]: PROPERTY CHANGE: Adding CMDLINE property. Its value is '/s INSTALLDIR="C:\Java\JRE\\" WEB_JAVA=Enable WEB_ANALYTICS=Disable INSTALLCFG="C:\jcfg42.txt" INSTALL_SILENT=1 REPAIRMODE=0 ProductCode={26A24AE4-039D-4CA4-87B4-2F64180241F0}'.
+Action start 15:32:29: SetCMDLine.
+MSI (s) (84:64) [15:32:29:488]: Doing action: deleteinstallerexe_set_properties
+Action ended 15:32:29: SetCMDLine. Return value 1.
+MSI (s) (84:64) [15:32:29:489]: PROPERTY CHANGE: Adding deleteinstallerexe property. Its value is 'C:\Java\JRE\'.
+Action start 15:32:29: deleteinstallerexe_set_properties.
+MSI (s) (84:64) [15:32:29:489]: Doing action: MigrateFeatureStates
+Action ended 15:32:29: deleteinstallerexe_set_properties. Return value 1.
+Action start 15:32:29: MigrateFeatureStates.
+MSI (s) (84:64) [15:32:29:490]: Doing action: InstallValidate
+Action ended 15:32:29: MigrateFeatureStates. Return value 0.
+MSI (s) (84:64) [15:32:29:490]: Note: 1: 2205 2:  3: Dialog
+MSI (s) (84:64) [15:32:29:490]: Feature: jrecore; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: Registry; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: jz; Installed: Absent;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz65; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz66; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz67; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz68; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz69; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz70; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz71; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz72; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz73; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz74; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz75; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz76; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz77; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz78; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz79; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz80; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz81; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz82; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz83; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __jz84; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Component: __Registry65; Installed: Null;   Request: Local;   Action: Local
+MSI (s) (84:64) [15:32:29:490]: Note: 1: 2205 2:  3: BindImage
+MSI (s) (84:64) [15:32:29:490]: Note: 1: 2205 2:  3: ProgId
+MSI (s) (84:64) [15:32:29:490]: Note: 1: 2205 2:  3: PublishComponent
+MSI (s) (84:64) [15:32:29:490]: Note: 1: 2205 2:  3: SelfReg
+MSI (s) (84:64) [15:32:29:490]: Note: 1: 2205 2:  3: Extension
+MSI (s) (84:64) [15:32:29:490]: Note: 1: 2205 2:  3: Font
+MSI (s) (84:64) [15:32:29:490]: Note: 1: 2205 2:  3: Shortcut
+MSI (s) (84:64) [15:32:29:490]: Note: 1: 2205 2:  3: Class
+MSI (s) (84:64) [15:32:29:490]: Note: 1: 2205 2:  3: Icon
+MSI (s) (84:64) [15:32:29:490]: Note: 1: 2205 2:  3: TypeLib
+Action start 15:32:29: InstallValidate.
+MSI (s) (84:64) [15:32:29:491]: Note: 1: 2205 2:  3: MsiAssembly
+MSI (s) (84:64) [15:32:29:491]: Note: 1: 2228 2:  3: MsiAssembly 4:  SELECT `MsiAssembly`.`Attributes`, `MsiAssembly`.`File_Application`, `MsiAssembly`.`File_Manifest`,  `Component`.`KeyPath` FROM `MsiAssembly`, `Component` WHERE  `MsiAssembly`.`Component_` = `Component`.`Component` AND `MsiAssembly`.`Component_` = ?
+MSI (s) (84:64) [15:32:29:491]: Note: 1: 2205 2:  3: _RemoveFilePath
+MSI (s) (84:64) [15:32:29:491]: Note: 1: 2205 2:  3: MsiFileHash
+MSI (s) (84:64) [15:32:29:496]: PROPERTY CHANGE: Modifying CostingComplete property. Its current value is '0'. Its new value: '1'.
+MSI (s) (84:64) [15:32:29:497]: Note: 1: 2205 2:  3: BindImage
+MSI (s) (84:64) [15:32:29:497]: Note: 1: 2205 2:  3: ProgId
+MSI (s) (84:64) [15:32:29:497]: Note: 1: 2205 2:  3: PublishComponent
+MSI (s) (84:64) [15:32:29:497]: Note: 1: 2205 2:  3: SelfReg
+MSI (s) (84:64) [15:32:29:497]: Note: 1: 2205 2:  3: Extension
+MSI (s) (84:64) [15:32:29:497]: Note: 1: 2205 2:  3: Font
+MSI (s) (84:64) [15:32:29:497]: Note: 1: 2205 2:  3: Shortcut
+MSI (s) (84:64) [15:32:29:497]: Note: 1: 2205 2:  3: Class
+MSI (s) (84:64) [15:32:29:497]: Note: 1: 2205 2:  3: Icon
+MSI (s) (84:64) [15:32:29:497]: Note: 1: 2205 2:  3: TypeLib
+MSI (s) (84:64) [15:32:29:497]: Note: 1: 2727 2:
+MSI (s) (84:64) [15:32:29:499]: Note: 1: 2727 2:
+MSI (s) (84:64) [15:32:29:500]: Skipping action: RemoveExistingProducts (condition is false)
+MSI (s) (84:64) [15:32:29:500]: Skipping action: RUN_PREINSTALL_JSCRIPT (condition is false)
+MSI (s) (84:64) [15:32:29:500]: Skipping action: RUN_PREINSTALL_VBSCRIPT (condition is false)
+MSI (s) (84:64) [15:32:29:500]: Doing action: InstallInitialize
+Action ended 15:32:29: InstallValidate. Return value 1.
+MSI (s) (84:64) [15:32:29:500]: Machine policy value 'AlwaysInstallElevated' is 0
+MSI (s) (84:64) [15:32:29:500]: User policy value 'AlwaysInstallElevated' is 0
+MSI (s) (84:64) [15:32:29:500]: BeginTransaction: Locking Server
+MSI (s) (84:64) [15:32:29:501]: Note: 1: 2203 2: C:\WINDOWS\Installer\inprogressinstallinfo.ipi 3: -2147287038
+MSI (s) (84:64) [15:32:29:501]: SRSetRestorePoint skipped for this transaction.
+MSI (s) (84:64) [15:32:29:501]: Note: 1: 2203 2: C:\WINDOWS\Installer\inprogressinstallinfo.ipi 3: -2147287038
+MSI (s) (84:64) [15:32:29:501]: Server not locked: locking for product {26A24AE4-039D-4CA4-87B4-2F64180241F0}
+Action start 15:32:29: InstallInitialize.
+MSI (s) (84:64) [15:32:29:506]: Doing action: validateinstalldir
+Action ended 15:32:29: InstallInitialize. Return value 1.
+MSI (s) (84:70) [15:32:29:508]: Invoking remote custom action. DLL: C:\WINDOWS\Installer\MSIB6C6.tmp, Entrypoint: MSIValidateInstallDir
+Action start 15:32:29: validateinstalldir.
+MSI (s) (84:64) [15:32:29:513]: Skipping action: uninstallexe (condition is false)
+MSI (s) (84:64) [15:32:29:513]: Doing action: AllocateRegistrySpace
+Action ended 15:32:29: validateinstalldir. Return value 1.
+Action start 15:32:29: AllocateRegistrySpace.
+MSI (s) (84:64) [15:32:29:514]: Doing action: ProcessComponents
+Action ended 15:32:29: AllocateRegistrySpace. Return value 1.
+MSI (s) (84:64) [15:32:29:514]: Note: 1: 2205 2:  3: MsiPatchCertificate
+MSI (s) (84:64) [15:32:29:514]: LUA patching is disabled: missing MsiPatchCertificate table
+MSI (s) (84:64) [15:32:29:514]: Resolving source.
+MSI (s) (84:64) [15:32:29:514]: Resolving source to launched-from source.
+MSI (s) (84:64) [15:32:29:514]: Setting launched-from source as last-used.
+MSI (s) (84:64) [15:32:29:514]: PROPERTY CHANGE: Adding SourceDir property. Its value is 'C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\'.
+MSI (s) (84:64) [15:32:29:514]: PROPERTY CHANGE: Adding SOURCEDIR property. Its value is 'C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\'.
+MSI (s) (84:64) [15:32:29:514]: PROPERTY CHANGE: Adding SourcedirProduct property. Its value is '{26A24AE4-039D-4CA4-87B4-2F64180241F0}'.
+MSI (s) (84:64) [15:32:29:514]: SOURCEDIR ==> C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\
+MSI (s) (84:64) [15:32:29:514]: SOURCEDIR product ==> {26A24AE4-039D-4CA4-87B4-2F64180241F0}
+MSI (s) (84:64) [15:32:29:515]: Determining source type
+MSI (s) (84:64) [15:32:29:515]: Source type from package 'jre1.8.0_24164.msi': 2
+MSI (s) (84:64) [15:32:29:515]: SECREPAIR: Hash Database: C:\WINDOWS\Installer\SourceHash{26A24AE4-039D-4CA4-87B4-2F64180241F0}
+MSI (s) (84:64) [15:32:29:517]: Note: 1: 2262 2: SourceHash 3: -2147287038
+MSI (s) (84:64) [15:32:29:519]: SECREPAIR: New Hash Database creation complete.
+Action start 15:32:29: ProcessComponents.
+MSI (s) (84:64) [15:32:29:626]: Source path resolution complete. Dumping Directory table...
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: TARGETDIR	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: 	, ShortSubPath:
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: WindowsFolder	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: 	, ShortSubPath:
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: ProgramFiles64Folder	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: 	, ShortSubPath:
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: JAVA	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\	, ShortSubPath:
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: INSTALLDIR	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\	, ShortSubPath: Java\dc97sejq\
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: lib	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\lib\	, ShortSubPath: Java\dc97sejq\lib\
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: _ac8c9a16cf533cc43453382b858e383f	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\lib\security\	, ShortSubPath: Java\dc97sejq\lib\security\
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: _1b1245816caef90e460581e15a152088	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\lib\security\policy\	, ShortSubPath: Java\dc97sejq\lib\security\policy\
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: _b62ba9979d9717a5fa931c4a59913eac	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\lib\security\policy\unlimited\	, ShortSubPath: Java\dc97sejq\lib\security\policy\_mh33rtw\
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: _9e9c1d68a5877ae9e0a0f6da0e319def	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\lib\security\policy\limited\	, ShortSubPath: Java\dc97sejq\lib\security\policy\limited\
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: _f77a91ab67770066f2f70a4e866bd6f2	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\lib\management\	, ShortSubPath: Java\dc97sejq\lib\jrh7_lm7\
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: _d1ed20383ad490620fad8f7ef2604694	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\lib\jfr\	, ShortSubPath: Java\dc97sejq\lib\jfr\
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: _7d1f0c8cd0b6b5085edce7191d2e13fc	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\lib\images\	, ShortSubPath: Java\dc97sejq\lib\images\
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: _5a3e43326288376ac3187591163d3e2f	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\lib\images\cursors\	, ShortSubPath: Java\dc97sejq\lib\images\cursors\
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: _5e1f669a5e9d610a961db04cbf67fac1	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\lib\fonts\	, ShortSubPath: Java\dc97sejq\lib\fonts\
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: _0c75b84d1f54adf58811ac9c654e761d	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\lib\ext\	, ShortSubPath: Java\dc97sejq\lib\ext\
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: _af4c2cd3f329594ff7e36333541620e5	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\lib\deploy\	, ShortSubPath: Java\dc97sejq\lib\deploy\
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: _c2d55fde7f416db49c114d6bbf5af1ea	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\lib\cmm\	, ShortSubPath: Java\dc97sejq\lib\cmm\
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: _d878822f4918e07c26e3734b38129527	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\lib\applet\	, ShortSubPath: Java\dc97sejq\lib\applet\
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: _45f51046d19911303d987511d07fd09d	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\lib\amd64\	, ShortSubPath: Java\dc97sejq\lib\amd64\
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: bin	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\bin\	, ShortSubPath: Java\dc97sejq\bin\
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: _001a61a942509398ff9e5251fe7206d3	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\bin\server\	, ShortSubPath: Java\dc97sejq\bin\server\
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: _6d48374b37a00457e1f08bafe7ba2dda	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\bin\plugin2\	, ShortSubPath: Java\dc97sejq\bin\plugin2\
+MSI (s) (84:64) [15:32:29:626]: Dir (source): Key: _b8561938743986152bb2ee373a8d75ad	, Object: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\	, LongSubPath: Java\jre1.8.0_241\bin\dtplugin\	, ShortSubPath: Java\dc97sejq\bin\dtplugin\
+MSI (s) (84:64) [15:32:29:629]: Doing action: UnpublishComponents
+Action ended 15:32:29: ProcessComponents. Return value 1.
+MSI (s) (84:64) [15:32:29:630]: Note: 1: 2205 2:  3: PublishComponent
+MSI (s) (84:64) [15:32:29:630]: Note: 1: 2228 2:  3: PublishComponent 4: SELECT `PublishComponent`.`ComponentId`, `PublishComponent`.`Qualifier`, `PublishComponent`.`AppData`, `Feature`, `Component`.`ComponentId`, `Component`.`RuntimeFlags` FROM `PublishComponent`, `Component`, `Feature`  WHERE `PublishComponent`.`Component_` = `Component`.`Component` AND `PublishComponent`.`Feature_` = `Feature`.`Feature` AND (`Feature`.`Action` = 0 OR ((`Feature`.`Action` = NULL OR `Feature`.`Action` = 3) AND `Component`.`Action` = 0 AND (`Feature`.`Installed` = 1 OR `Feature`.`Installed` = 2)))
+Action start 15:32:29: UnpublishComponents.
+MSI (s) (84:64) [15:32:29:630]: Doing action: UnpublishFeatures
+Action ended 15:32:29: UnpublishComponents. Return value 0.
+Action start 15:32:29: UnpublishFeatures.
+MSI (s) (84:64) [15:32:29:631]: Doing action: StopServices
+Action ended 15:32:29: UnpublishFeatures. Return value 1.
+MSI (s) (84:64) [15:32:29:632]: Note: 1: 2205 2:  3: ServiceControl
+MSI (s) (84:64) [15:32:29:632]: Note: 1: 2228 2:  3: ServiceControl 4: SELECT `Name`,`Wait`,`Arguments`,`Event`, `Action` FROM `ServiceControl`, `Component` WHERE `Component_` = `Component` AND (`Action` = 0 OR `Action` = 1 OR `Action` = 2)
+Action start 15:32:29: StopServices.
+MSI (s) (84:64) [15:32:29:632]: Doing action: DeleteServices
+Action ended 15:32:29: StopServices. Return value 1.
+MSI (s) (84:64) [15:32:29:632]: Note: 1: 2205 2:  3: ServiceControl
+MSI (s) (84:64) [15:32:29:632]: Note: 1: 2228 2:  3: ServiceControl 4: SELECT `Name`,`Wait`,`Arguments`,`Event`, `Action` FROM `ServiceControl`, `Component` WHERE `Component_` = `Component` AND (`Action` = 0 OR `Action` = 1 OR `Action` = 2)
+Action start 15:32:29: DeleteServices.
+MSI (s) (84:64) [15:32:29:633]: Doing action: RemoveRegistryValues
+Action ended 15:32:29: DeleteServices. Return value 1.
+Action start 15:32:29: RemoveRegistryValues.
+MSI (s) (84:64) [15:32:29:634]: Doing action: RemoveDuplicateFiles
+Action ended 15:32:29: RemoveRegistryValues. Return value 1.
+Action start 15:32:29: RemoveDuplicateFiles.
+MSI (s) (84:64) [15:32:29:635]: Doing action: RemoveFiles
+Action ended 15:32:29: RemoveDuplicateFiles. Return value 1.
+Action start 15:32:29: RemoveFiles.
+MSI (s) (84:64) [15:32:29:637]: Counted 20 foreign folders to be removed.
+MSI (s) (84:64) [15:32:29:637]: Removing child folder of C:\Java\JRE\ (child: C:\Java\JRE\bin\dtplugin\)
+MSI (s) (84:64) [15:32:29:637]: Removing foreign folder: C:\Java\JRE\bin\dtplugin\
+MSI (s) (84:64) [15:32:29:637]: Removing child folder of C:\Java\JRE\ (child: C:\Java\JRE\bin\)
+MSI (s) (84:64) [15:32:29:637]: Removing child folder of C:\Java\JRE\bin\ (child: C:\Java\JRE\bin\plugin2\)
+MSI (s) (84:64) [15:32:29:637]: Removing foreign folder: C:\Java\JRE\bin\plugin2\
+MSI (s) (84:64) [15:32:29:637]: Removing child folder of C:\Java\JRE\bin\ (child: C:\Java\JRE\bin\server\)
+MSI (s) (84:64) [15:32:29:637]: Removing foreign folder: C:\Java\JRE\bin\server\
+MSI (s) (84:64) [15:32:29:638]: Removing foreign folder: C:\Java\JRE\bin\
+MSI (s) (84:64) [15:32:29:638]: Removing child folder of C:\Java\JRE\ (child: C:\Java\JRE\lib\amd64\)
+MSI (s) (84:64) [15:32:29:638]: Removing foreign folder: C:\Java\JRE\lib\amd64\
+MSI (s) (84:64) [15:32:29:638]: Removing child folder of C:\Java\JRE\ (child: C:\Java\JRE\lib\)
+MSI (s) (84:64) [15:32:29:638]: Removing child folder of C:\Java\JRE\lib\ (child: C:\Java\JRE\lib\applet\)
+MSI (s) (84:64) [15:32:29:638]: Removing foreign folder: C:\Java\JRE\lib\applet\
+MSI (s) (84:64) [15:32:29:638]: Removing child folder of C:\Java\JRE\lib\ (child: C:\Java\JRE\lib\cmm\)
+MSI (s) (84:64) [15:32:29:638]: Removing foreign folder: C:\Java\JRE\lib\cmm\
+MSI (s) (84:64) [15:32:29:638]: Removing child folder of C:\Java\JRE\lib\ (child: C:\Java\JRE\lib\deploy\)
+MSI (s) (84:64) [15:32:29:638]: Removing foreign folder: C:\Java\JRE\lib\deploy\
+MSI (s) (84:64) [15:32:29:639]: Removing child folder of C:\Java\JRE\lib\ (child: C:\Java\JRE\lib\ext\)
+MSI (s) (84:64) [15:32:29:639]: Removing foreign folder: C:\Java\JRE\lib\ext\
+MSI (s) (84:64) [15:32:29:639]: Removing child folder of C:\Java\JRE\lib\ (child: C:\Java\JRE\lib\fonts\)
+MSI (s) (84:64) [15:32:29:639]: Removing foreign folder: C:\Java\JRE\lib\fonts\
+MSI (s) (84:64) [15:32:29:639]: Removing child folder of C:\Java\JRE\lib\ (child: C:\Java\JRE\lib\images\cursors\)
+MSI (s) (84:64) [15:32:29:639]: Removing foreign folder: C:\Java\JRE\lib\images\cursors\
+MSI (s) (84:64) [15:32:29:639]: Removing child folder of C:\Java\JRE\lib\ (child: C:\Java\JRE\lib\images\)
+MSI (s) (84:64) [15:32:29:639]: Removing foreign folder: C:\Java\JRE\lib\images\
+MSI (s) (84:64) [15:32:29:639]: Removing child folder of C:\Java\JRE\lib\ (child: C:\Java\JRE\lib\jfr\)
+MSI (s) (84:64) [15:32:29:639]: Removing foreign folder: C:\Java\JRE\lib\jfr\
+MSI (s) (84:64) [15:32:29:640]: Removing child folder of C:\Java\JRE\lib\ (child: C:\Java\JRE\lib\management\)
+MSI (s) (84:64) [15:32:29:640]: Removing foreign folder: C:\Java\JRE\lib\management\
+MSI (s) (84:64) [15:32:29:640]: Removing child folder of C:\Java\JRE\lib\ (child: C:\Java\JRE\lib\security\policy\limited\)
+MSI (s) (84:64) [15:32:29:640]: Removing foreign folder: C:\Java\JRE\lib\security\policy\limited\
+MSI (s) (84:64) [15:32:29:640]: Removing child folder of C:\Java\JRE\lib\ (child: C:\Java\JRE\lib\security\policy\)
+MSI (s) (84:64) [15:32:29:640]: Removing child folder of C:\Java\JRE\lib\security\policy\ (child: C:\Java\JRE\lib\security\policy\unlimited\)
+MSI (s) (84:64) [15:32:29:640]: Removing foreign folder: C:\Java\JRE\lib\security\policy\unlimited\
+MSI (s) (84:64) [15:32:29:640]: Removing foreign folder: C:\Java\JRE\lib\security\policy\
+MSI (s) (84:64) [15:32:29:640]: Removing child folder of C:\Java\JRE\lib\ (child: C:\Java\JRE\lib\security\)
+MSI (s) (84:64) [15:32:29:640]: Removing foreign folder: C:\Java\JRE\lib\security\
+MSI (s) (84:64) [15:32:29:640]: Removing foreign folder: C:\Java\JRE\lib\
+MSI (s) (84:64) [15:32:29:641]: Removing foreign folder: C:\Java\JRE\
+MSI (s) (84:64) [15:32:29:641]: Doing action: RemoveFolders
+Action ended 15:32:29: RemoveFiles. Return value 1.
+Action start 15:32:29: RemoveFolders.
+MSI (s) (84:64) [15:32:29:642]: Doing action: CreateFolders
+Action ended 15:32:29: RemoveFolders. Return value 1.
+Action start 15:32:29: CreateFolders.
+MSI (s) (84:64) [15:32:29:643]: Doing action: MoveFiles
+Action ended 15:32:29: CreateFolders. Return value 1.
+Action start 15:32:29: MoveFiles.
+MSI (s) (84:64) [15:32:29:643]: Doing action: InstallFiles
+Action ended 15:32:29: MoveFiles. Return value 1.
+Action start 15:32:29: InstallFiles.
+MSI (s) (84:64) [15:32:29:644]: Note: 1: 2205 2:  3: Patch
+MSI (s) (84:64) [15:32:29:644]: Note: 1: 2228 2:  3: Patch 4: SELECT `Patch`.`File_`, `Patch`.`Header`, `Patch`.`Attributes`, `Patch`.`Sequence`, `Patch`.`StreamRef_` FROM `Patch` WHERE `Patch`.`File_` = ? AND `Patch`.`#_MsiActive`=? ORDER BY `Patch`.`Sequence`
+MSI (s) (84:64) [15:32:29:645]: Note: 1: 2205 2:  3: MsiSFCBypass
+MSI (s) (84:64) [15:32:29:645]: Note: 1: 2228 2:  3: MsiSFCBypass 4: SELECT `File_` FROM `MsiSFCBypass` WHERE `File_` = ?
+MSI (s) (84:64) [15:32:29:645]: Note: 1: 2205 2:  3: MsiPatchHeaders
+MSI (s) (84:64) [15:32:29:645]: Note: 1: 2228 2:  3: MsiPatchHeaders 4: SELECT `Header` FROM `MsiPatchHeaders` WHERE `StreamRef` = ?
+MSI (s) (84:64) [15:32:29:645]: Note: 1: 2205 2:  3: PatchPackage
+MSI (s) (84:64) [15:32:29:645]: Note: 1: 2205 2:  3: MsiPatchHeaders
+MSI (s) (84:64) [15:32:29:645]: Note: 1: 2205 2:  3: PatchPackage
+MSI (s) (84:64) [15:32:29:646]: Doing action: DuplicateFiles
+Action ended 15:32:29: InstallFiles. Return value 1.
+Action start 15:32:29: DuplicateFiles.
+MSI (s) (84:64) [15:32:29:647]: Doing action: WriteRegistryValues
+Action ended 15:32:29: DuplicateFiles. Return value 1.
+Action start 15:32:29: WriteRegistryValues.
+MSI (s) (84:64) [15:32:29:649]: Doing action: RegisterUser
+Action ended 15:32:29: WriteRegistryValues. Return value 1.
+Action start 15:32:29: RegisterUser.
+MSI (s) (84:64) [15:32:29:650]: Doing action: RegisterProduct
+Action ended 15:32:29: RegisterUser. Return value 1.
+Action start 15:32:29: RegisterProduct.
+MSI (s) (84:64) [15:32:29:652]: PROPERTY CHANGE: Adding ProductToBeRegistered property. Its value is '1'.
+MSI (s) (84:64) [15:32:29:653]: Doing action: PublishComponents
+Action ended 15:32:29: RegisterProduct. Return value 1.
+MSI (s) (84:64) [15:32:29:653]: Note: 1: 2205 2:  3: PublishComponent
+MSI (s) (84:64) [15:32:29:653]: Note: 1: 2228 2:  3: PublishComponent 4: SELECT `PublishComponent`.`ComponentId`, `PublishComponent`.`Qualifier`, `PublishComponent`.`AppData`, `Feature`, `Component`.`ComponentId`, `Component`.`RuntimeFlags` FROM `PublishComponent`, `Component`, `Feature`  WHERE `PublishComponent`.`Component_` = `Component`.`Component` AND `PublishComponent`.`Feature_` = `Feature`.`Feature` AND ((`Feature`.`Action` = 1 OR `Feature`.`Action` = 2)  OR (`Feature`.`Action` = 4 AND `Feature`.`Installed` = 0) OR (`Feature`.`Action` = 3 AND (`Feature`.`Installed` = 1 OR `Feature`.`Installed` = 2 OR `Feature`.`Installed` = 4)))
+Action start 15:32:29: PublishComponents.
+MSI (s) (84:64) [15:32:29:653]: Doing action: PublishFeatures
+Action ended 15:32:29: PublishComponents. Return value 0.
+Action start 15:32:29: PublishFeatures.
+MSI (s) (84:64) [15:32:29:655]: Doing action: PublishProduct
+Action ended 15:32:29: PublishFeatures. Return value 1.
+MSI (s) (84:64) [15:32:29:655]: Note: 1: 2205 2:  3: Icon
+MSI (s) (84:64) [15:32:29:655]: Note: 1: 2228 2:  3: Icon 4: SELECT `Name`, `Data` FROM `Icon`
+Action start 15:32:29: PublishProduct.
+MSI (s) (84:64) [15:32:29:657]: Doing action: installexerollback
+Action ended 15:32:29: PublishProduct. Return value 1.
+Action start 15:32:29: installexerollback.
+MSI (s) (84:64) [15:32:29:662]: Doing action: checkimpersonate
+Action ended 15:32:29: installexerollback. Return value 1.
+MSI (s) (84:CC) [15:32:29:665]: Invoking remote custom action. DLL: C:\WINDOWS\Installer\MSIB764.tmp, Entrypoint: MSISetImpersonate
+Action start 15:32:29: checkimpersonate.
+MSI (s) (84:64) [15:32:29:671]: Doing action: installexe
+Action ended 15:32:29: checkimpersonate. Return value 1.
+Action start 15:32:29: installexe.
+MSI (s) (84:64) [15:32:29:672]: Skipping action: installexeyes (condition is false)
+MSI (s) (84:64) [15:32:29:672]: Doing action: deleteinstallerexe
+Action ended 15:32:29: installexe. Return value 1.
+Action start 15:32:29: deleteinstallerexe.
+MSI (s) (84:64) [15:32:29:676]: Doing action: InstallFinalize
+Action ended 15:32:29: deleteinstallerexe. Return value 1.
+MSI (s) (84:64) [15:32:29:677]: Running Script: C:\WINDOWS\Installer\MSIB744.tmp
+MSI (s) (84:64) [15:32:29:677]: PROPERTY CHANGE: Adding UpdateStarted property. Its value is '1'.
+MSI (s) (84:64) [15:32:29:679]: Note: 1: 2265 2:  3: -2147287035
+MSI (s) (84:64) [15:32:29:679]: Machine policy value 'DisableRollback' is 0
+MSI (s) (84:64) [15:32:29:680]: Note: 1: 2318 2:
+MSI (s) (84:64) [15:32:29:681]: Note: 1: 2318 2:
+MSI (s) (84:64) [15:32:29:682]: Note: 1: 1402 2: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Installer\Rollback\Scripts 3: 2
+MSI (s) (84:64) [15:32:29:682]: Executing op: Header(Signature=1397708873,Version=500,Timestamp=1350335503,LangId=1033,Platform=589824,ScriptType=1,ScriptMajorVersion=21,ScriptMinorVersion=4,ScriptAttributes=1)
+Action start 15:32:29: InstallFinalize.
+MSI (s) (84:64) [15:32:29:683]: Executing op: ProductInfo(ProductKey={26A24AE4-039D-4CA4-87B4-2F64180241F0},ProductName=Java 8 Update 241 (64-bit),PackageName=jre1.8.0_24164.msi,Language=1033,Version=134220138,Assignment=1,ObsoleteArg=0,ProductIcon=C:\Java\JRE\\bin\javaws.exe,,PackageCode={6A188D4B-E123-4138-8A0E-7A5B16115217},,,InstanceType=0,LUASetting=0,RemoteURTInstalls=0,ProductDeploymentFlags=3)
+MSI (s) (84:64) [15:32:29:683]: Executing op: DialogInfo(Type=0,Argument=1033)
+MSI (s) (84:64) [15:32:29:684]: Executing op: DialogInfo(Type=1,Argument=Java 8 Update 241 (64-bit))
+MSI (s) (84:64) [15:32:29:684]: Executing op: RollbackInfo(,RollbackAction=Rollback,RollbackDescription=Rolling back action:,RollbackTemplate=[1],CleanupAction=RollbackCleanup,CleanupDescription=Removing backup files,CleanupTemplate=File: [1])
+MSI (s) (84:64) [15:32:29:684]: Executing op: SetBaseline(Baseline=0,)
+MSI (s) (84:64) [15:32:29:684]: Executing op: SetBaseline(Baseline=1,)
+MSI (s) (84:64) [15:32:29:684]: Executing op: ActionStart(Name=ProcessComponents,Description=Updating component registration,)
+MSI (s) (84:64) [15:32:29:684]: Executing op: ProgressTotal(Total=2,Type=1,ByteEquivalent=24000)
+MSI (s) (84:64) [15:32:29:685]: Executing op: ComponentRegister(ComponentId={D2FD98FF-4356-5576-95CF-D1AC077AA5D2},KeyPath=22:\Software\JavaSoft\Java Runtime Environment\1.8.0_241\MSI\INSTALLDIR,State=3,,Disk=1,SharedDllRefCount=0,BinaryType=1)
+MSI (s) (84:64) [15:32:29:685]: Executing op: ComponentRegister(ComponentId={5619A6DE-0F06-55FE-911E-54A946641F24},KeyPath=C:\Java\JRE\,State=3,,Disk=1,SharedDllRefCount=0,BinaryType=1)
+MSI (s) (84:64) [15:32:29:686]: Executing op: ActionStart(Name=RemoveRegistryValues,Description=Removing system registry values,Template=Key: [1], Name: [2])
+MSI (s) (84:64) [15:32:29:686]: Executing op: ProgressTotal(Total=1,Type=1,ByteEquivalent=13200)
+MSI (s) (84:64) [15:32:29:686]: Executing op: RegOpenKey(Root=-2147483646,Key=Software\JavaSoft\Java Runtime Environment\1.8.0_241,,BinaryType=1,,)
+MSI (s) (84:64) [15:32:29:686]: Executing op: RegRemoveKey()
+MSI (s) (84:64) [15:32:29:687]: Note: 1: 1402 2: HKEY_LOCAL_MACHINE\Software\JavaSoft\Java Runtime Environment\1.8.0_241 3: 2
+MSI (s) (84:64) [15:32:29:687]: Executing op: ActionStart(Name=RemoveFiles,Description=Removing files,Template=File: [1], Directory: [9])
+MSI (s) (84:64) [15:32:29:687]: Executing op: ProgressTotal(Total=20,Type=1,ByteEquivalent=175000)
+MSI (s) (84:64) [15:32:29:687]: Executing op: FolderRemove(Folder=C:\Java\JRE\bin\dtplugin\,Foreign=1)
+MSI (s) (84:64) [15:32:29:688]: Executing op: FolderRemove(Folder=C:\Java\JRE\bin\plugin2\,Foreign=1)
+MSI (s) (84:64) [15:32:29:688]: Executing op: FolderRemove(Folder=C:\Java\JRE\bin\server\,Foreign=1)
+MSI (s) (84:64) [15:32:29:689]: Executing op: FolderRemove(Folder=C:\Java\JRE\bin\,Foreign=1)
+MSI (s) (84:64) [15:32:29:689]: Executing op: FolderRemove(Folder=C:\Java\JRE\lib\amd64\,Foreign=1)
+MSI (s) (84:64) [15:32:29:690]: Executing op: FolderRemove(Folder=C:\Java\JRE\lib\applet\,Foreign=1)
+MSI (s) (84:64) [15:32:29:690]: Executing op: FolderRemove(Folder=C:\Java\JRE\lib\cmm\,Foreign=1)
+MSI (s) (84:64) [15:32:29:691]: Executing op: FolderRemove(Folder=C:\Java\JRE\lib\deploy\,Foreign=1)
+MSI (s) (84:64) [15:32:29:691]: Executing op: FolderRemove(Folder=C:\Java\JRE\lib\ext\,Foreign=1)
+MSI (s) (84:64) [15:32:29:692]: Executing op: FolderRemove(Folder=C:\Java\JRE\lib\fonts\,Foreign=1)
+MSI (s) (84:64) [15:32:29:692]: Executing op: FolderRemove(Folder=C:\Java\JRE\lib\images\cursors\,Foreign=1)
+MSI (s) (84:64) [15:32:29:693]: Executing op: FolderRemove(Folder=C:\Java\JRE\lib\images\,Foreign=1)
+MSI (s) (84:64) [15:32:29:693]: Executing op: FolderRemove(Folder=C:\Java\JRE\lib\jfr\,Foreign=1)
+MSI (s) (84:64) [15:32:29:694]: Executing op: FolderRemove(Folder=C:\Java\JRE\lib\management\,Foreign=1)
+MSI (s) (84:64) [15:32:29:695]: Executing op: FolderRemove(Folder=C:\Java\JRE\lib\security\policy\limited\,Foreign=1)
+MSI (s) (84:64) [15:32:29:695]: Executing op: FolderRemove(Folder=C:\Java\JRE\lib\security\policy\unlimited\,Foreign=1)
+MSI (s) (84:64) [15:32:29:696]: Executing op: FolderRemove(Folder=C:\Java\JRE\lib\security\policy\,Foreign=1)
+MSI (s) (84:64) [15:32:29:696]: Executing op: FolderRemove(Folder=C:\Java\JRE\lib\security\,Foreign=1)
+MSI (s) (84:64) [15:32:29:697]: Executing op: FolderRemove(Folder=C:\Java\JRE\lib\,Foreign=1)
+MSI (s) (84:64) [15:32:29:697]: Executing op: FolderRemove(Folder=C:\Java\JRE\,Foreign=1)
+MSI (s) (84:64) [15:32:29:698]: Executing op: ActionStart(Name=CreateFolders,Description=Creating folders,Template=Folder: [1])
+MSI (s) (84:64) [15:32:29:698]: Executing op: FolderCreate(Folder=C:\Java\JRE\,Foreign=0,,)
+MSI (s) (84:64) [15:32:29:699]: Executing op: ActionStart(Name=InstallFiles,Description=Copying new files,Template=File: [1],  Directory: [9],  Size: [6])
+MSI (s) (84:64) [15:32:29:699]: Executing op: ProgressTotal(Total=125784120,Type=0,ByteEquivalent=1)
+MSI (s) (84:64) [15:32:29:699]: Executing op: SetTargetFolder(Folder=C:\Java\JRE\)
+MSI (s) (84:64) [15:32:29:699]: Executing op: SetSourceFolder(Folder=1\Java\dc97sejq\|Java\jre1.8.0_241\)
+MSI (s) (84:64) [15:32:29:699]: Executing op: ChangeMedia(MediaVolumeLabel=DISK1,MediaPrompt=Please insert the disk: 1,MediaCabinet=Data1.cab,BytesPerTick=65536,CopierType=2,ModuleFileName=C:\WINDOWS\Installer\d2eaca3.msi,,,,,IsFirstPhysicalMedia=1)
+MSI (s) (84:64) [15:32:29:699]: Executing op: FileCopy(SourceName=c_otytcr.exe|installer.exe,SourceCabKey=installerexe,DestName=installer.exe,Attributes=0,FileSize=125784120,PerTick=65536,,VerifyMedia=1,,,,,CheckCRC=0,Version=8.0.2410.7,Language=1033,InstallMode=62914560,,,,,,,)
+MSI (s) (84:64) [15:32:29:700]: File: C:\Java\JRE\installer.exe;	To be installed;	Won't patch;	No existing file
+MSI (s) (84:64) [15:32:29:700]: Source for file 'installerexe' is compressed
+MSI (s) (84:64) [15:32:30:474]: Executing op: CacheSizeFlush(,)
+MSI (s) (84:64) [15:32:30:474]: Executing op: ActionStart(Name=WriteRegistryValues,Description=Writing system registry values,Template=Key: [1], Name: [2], Value: [3])
+MSI (s) (84:64) [15:32:30:480]: Executing op: ProgressTotal(Total=15,Type=1,ByteEquivalent=13200)
+MSI (s) (84:64) [15:32:30:481]: Executing op: RegOpenKey(Root=-2147483646,Key=Software\JavaSoft\Java Runtime Environment\1.8.0_241\MSI,,BinaryType=1,,)
+MSI (s) (84:64) [15:32:30:481]: Executing op: RegAddValue(Name=INSTALLDIR,Value=C:\Java\JRE\,)
+MSI (s) (84:64) [15:32:30:482]: Executing op: RegAddValue(Name=JU,,)
+MSI (s) (84:64) [15:32:30:482]: Executing op: RegAddValue(Name=OEMUPDATE,,)
+MSI (s) (84:64) [15:32:30:483]: Executing op: RegAddValue(Name=FROMVERSION,Value=NA,)
+MSI (s) (84:64) [15:32:30:484]: Executing op: RegAddValue(Name=FROMVERSIONFULL,,)
+MSI (s) (84:64) [15:32:30:484]: Executing op: RegAddValue(Name=PRODUCTVERSION,Value=8.0.2410.7,)
+MSI (s) (84:64) [15:32:30:485]: Executing op: RegAddValue(Name=EULA,,)
+MSI (s) (84:64) [15:32:30:485]: Executing op: RegAddValue(Name=JAVAUPDATE,Value=1,)
+MSI (s) (84:64) [15:32:30:486]: Executing op: RegAddValue(Name=AUTOUPDATECHECK,Value=1,)
+MSI (s) (84:64) [15:32:30:486]: Executing op: RegAddValue(Name=AUTOUPDATEDELAY,,)
+MSI (s) (84:64) [15:32:30:487]: Executing op: RegAddValue(Name=FullVersion,Value=1.8.0_241-b07,)
+MSI (s) (84:64) [15:32:30:487]: Executing op: RegOpenKey(Root=-2147483646,Key=Software\JavaSoft\Java Runtime Environment\1.8.0_241,,BinaryType=1,,)
+MSI (s) (84:64) [15:32:30:487]: Executing op: RegAddValue(Name=JavaHome,Value=C:\Java\JRE\,)
+MSI (s) (84:64) [15:32:30:488]: Executing op: RegAddValue(Name=MicroVersion,Value=0,)
+MSI (s) (84:64) [15:32:30:488]: Executing op: RegAddValue(Name=RuntimeLib,Value=C:\Java\JRE\bin\server\jvm.dll,)
+MSI (s) (84:64) [15:32:30:489]: Executing op: ActionStart(Name=RegisterUser,Description=Registering user,Template=[1])
+MSI (s) (84:64) [15:32:30:489]: Executing op: UserRegister(Owner=itrushin99@gmail.com,,ProductId=none)
+MSI (s) (84:64) [15:32:30:490]: Executing op: ActionStart(Name=RegisterProduct,Description=Registering product,Template=[1])
+MSI (s) (84:64) [15:32:30:490]: Executing op: ChangeMedia(MediaVolumeLabel=DISK1,MediaPrompt=Please insert the disk: 1,MediaCabinet=Data1.cab,BytesPerTick=0,CopierType=2,ModuleFileName=C:\WINDOWS\Installer\d2eaca3.msi,,,,,IsFirstPhysicalMedia=1)
+MSI (s) (84:64) [15:32:30:490]: Executing op: DatabaseCopy(DatabasePath=C:\WINDOWS\Installer\d2eaca3.msi,ProductCode={26A24AE4-039D-4CA4-87B4-2F64180241F0},,,)
+MSI (s) (84:64) [15:32:30:492]: Note: 1: 2318 2: C:\WINDOWS\Installer\d2eaca7.msi
+MSI (s) (84:64) [15:32:30:492]: File will have security applied from OpCode.
+MSI (s) (84:64) [15:32:30:758]: Executing op: ProductRegister(UpgradeCode={57BDA5C6-443C-4D65-B233-282396418000},VersionString=8.0.2410.7,HelpLink=https://java.com/help,,InstallLocation=C:\Java\JRE\,InstallSource=C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\,Publisher=Oracle Corporation,URLInfoAbout=https://java.com,URLUpdateInfo=https://java.sun.com,,NoModify=1,NoRepair=1,,,Contact=https://java.com,Readme=[INSTALLDIR]README.txt,,,EstimatedSize=122814,,,,)
+MSI (s) (84:64) [15:32:30:764]: Executing op: ProductCPDisplayInfoRegister()
+MSI (s) (84:64) [15:32:30:765]: Executing op: ActionStart(Name=PublishFeatures,Description=Publishing Product Features,Template=Feature: [1])
+MSI (s) (84:64) [15:32:30:765]: Executing op: FeaturePublish(Feature=jrecore,,Absent=2,Component=8Y%nl4hfOCbG8V`x9^dlsl1bC8S6_C&yrK_lWo[.)
+MSI (s) (84:64) [15:32:30:766]: Executing op: ActionStart(Name=PublishProduct,Description=Publishing product information,)
+MSI (s) (84:64) [15:32:30:766]: Executing op: CleanupConfigData()
+MSI (s) (84:64) [15:32:30:767]: Note: 1: 1402 2: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products\4EA42A62D9304AC4784BF2468120140F\Patches 3: 2
+MSI (s) (84:64) [15:32:30:767]: Executing op: RegisterPatchOrder(Continue=0,SequenceType=1,Remove=0)
+MSI (s) (84:64) [15:32:30:767]: Note: 1: 1402 2: UNKNOWN\Products\4EA42A62D9304AC4784BF2468120140F\Patches 3: 2
+MSI (s) (84:64) [15:32:30:767]: Executing op: ProductPublish(PackageKey={6A188D4B-E123-4138-8A0E-7A5B16115217})
+MSI (s) (84:64) [15:32:30:768]: Note: 1: 1402 2: UNKNOWN\Installer\Products\4EA42A62D9304AC4784BF2468120140F 3: 2
+MSI (s) (84:64) [15:32:30:768]: Note: 1: 1402 2: UNKNOWN\Installer\Products\4EA42A62D9304AC4784BF2468120140F 3: 2
+MSI (s) (84:64) [15:32:30:768]: Note: 1: 1402 2: UNKNOWN\Installer\Products\4EA42A62D9304AC4784BF2468120140F 3: 2
+MSI (s) (84:64) [15:32:30:768]: Note: 1: 1402 2: UNKNOWN\Installer\Products\4EA42A62D9304AC4784BF2468120140F 3: 2
+MSI (s) (84:64) [15:32:30:768]: Note: 1: 1402 2: UNKNOWN\Installer\Products\4EA42A62D9304AC4784BF2468120140F 3: 2
+MSI (s) (84:64) [15:32:30:768]: Note: 1: 1402 2: UNKNOWN\Installer\Products\4EA42A62D9304AC4784BF2468120140F 3: 2
+MSI (s) (84:64) [15:32:30:768]: Note: 1: 1402 2: UNKNOWN\Installer\Products\4EA42A62D9304AC4784BF2468120140F 3: 2
+MSI (s) (84:64) [15:32:30:768]: Note: 1: 1402 2: UNKNOWN\Installer\Products\4EA42A62D9304AC4784BF2468120140F 3: 2
+MSI (s) (84:64) [15:32:30:768]: Note: 1: 1402 2: UNKNOWN\Installer\Products\4EA42A62D9304AC4784BF2468120140F 3: 2
+MSI (s) (84:64) [15:32:30:768]: Note: 1: 1402 2: UNKNOWN\Installer\Products\4EA42A62D9304AC4784BF2468120140F 3: 2
+MSI (s) (84:64) [15:32:30:768]: Note: 1: 1402 2: UNKNOWN\Installer\Products\4EA42A62D9304AC4784BF2468120140F 3: 2
+MSI (s) (84:64) [15:32:30:772]: Executing op: UpgradeCodePublish(UpgradeCode={57BDA5C6-443C-4D65-B233-282396418000})
+MSI (s) (84:64) [15:32:30:773]: Executing op: SourceListPublish(,,DiskPromptTemplate=[1],,NumberOfDisks=1)
+MSI (s) (84:64) [15:32:30:773]: Note: 1: 1402 2: UNKNOWN\Installer\Products\4EA42A62D9304AC4784BF2468120140F\SourceList 3: 2
+MSI (s) (84:64) [15:32:30:774]: Executing op: ProductPublishClient(,,)
+MSI (s) (84:64) [15:32:30:774]: Executing op: SourceListRegisterLastUsed(SourceProduct={26A24AE4-039D-4CA4-87B4-2F64180241F0},LastUsedSource=C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\)
+MSI (s) (84:64) [15:32:30:774]: Entering CMsiConfigurationManager::SetLastUsedSource.
+MSI (s) (84:64) [15:32:30:774]: Specifed source is already in a list.
+MSI (s) (84:64) [15:32:30:775]: User policy value 'SearchOrder' is 'nmu'
+MSI (s) (84:64) [15:32:30:775]: Adding new sources is allowed.
+MSI (s) (84:64) [15:32:30:775]: Set LastUsedSource to: C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\.
+MSI (s) (84:64) [15:32:30:775]: Set LastUsedType to: n.
+MSI (s) (84:64) [15:32:30:775]: Set LastUsedIndex to: 1.
+MSI (s) (84:64) [15:32:30:775]: Executing op: ActionStart(Name=installexerollback,,)
+MSI (s) (84:64) [15:32:30:776]: Executing op: CustomActionSchedule(Action=installexerollback,ActionType=3394,Source=BinaryData,Target=ProductCode={26A24AE4-039D-4CA4-87B4-2F64180241F0} /s,)
+MSI (s) (84:64) [15:32:30:779]: Executing op: ActionStart(Name=installexe,,)
+MSI (s) (84:64) [15:32:30:779]: Executing op: CustomActionSchedule(Action=installexe,ActionType=3090,Source=C:\Java\JRE\installer.exe,Target=/s INSTALLDIR="C:\Java\JRE\\" WEB_JAVA=Enable WEB_ANALYTICS=Disable INSTALLCFG="C:\jcfg42.txt" INSTALL_SILENT=1 REPAIRMODE=0 ProductCode={26A24AE4-039D-4CA4-87B4-2F64180241F0},)
+MSI (s) (84:64) [15:33:11:292]: Executing op: ActionStart(Name=deleteinstallerexe,,)
+MSI (s) (84:64) [15:33:11:293]: Executing op: CustomActionSchedule(Action=deleteinstallerexe,ActionType=3073,Source=BinaryData,Target=MSIDeleteInstallerExe,CustomActionData=C:\Java\JRE\)
+MSI (s) (84:B8) [15:33:11:296]: Invoking remote custom action. DLL: C:\WINDOWS\Installer\MSI5A0D.tmp, Entrypoint: MSIDeleteInstallerExe
+MSI (s) (84:2C) [15:33:11:296]: Generating random cookie.
+MSI (s) (84:2C) [15:33:11:302]: Created Custom Action Server with PID 6356 (0x18D4).
+MSI (s) (84:A8) [15:33:11:338]: Running as a service.
+MSI (s) (84:A8) [15:33:11:344]: Hello, I'm your 64bit Elevated Non-remapped custom action server.
+MSI (s) (84:64) [15:33:11:377]: Executing op: End(Checksum=0,ProgressTotalHDWord=0,ProgressTotalLDWord=203275416)
+MSI (s) (84:64) [15:33:11:382]: Note: 1: 2265 2:  3: -2147287035
+MSI (s) (84:64) [15:33:11:383]: User policy value 'DisableRollback' is 0
+MSI (s) (84:64) [15:33:11:383]: Machine policy value 'DisableRollback' is 0
+MSI (s) (84:64) [15:33:11:386]: Note: 1: 2265 2:  3: -2147287035
+MSI (s) (84:64) [15:33:11:390]: Note: 1: 2318 2:
+MSI (s) (84:64) [15:33:11:393]: Note: 1: 2318 2:
+MSI (s) (84:64) [15:33:11:394]: No System Restore sequence number for this installation.
+MSI (s) (84:64) [15:33:11:395]: Unlocking Server
+MSI (s) (84:64) [15:33:11:397]: PROPERTY CHANGE: Deleting UpdateStarted property. Its current value is '1'.
+MSI (s) (84:64) [15:33:11:398]: Skipping action: MSIRemoveFoldersOnReboot (condition is false)
+MSI (s) (84:64) [15:33:11:398]: Skipping action: RUN_POSTINSTALL_JSCRIPT (condition is false)
+MSI (s) (84:64) [15:33:11:398]: Skipping action: RUN_POSTINSTALL_VBSCRIPT (condition is false)
+Action ended 15:33:11: InstallFinalize. Return value 1.
+Action ended 15:33:11: INSTALL. Return value 1.
+Property(S): DiskPrompt = [1]
+Property(S): UpgradeCode = {57BDA5C6-443C-4D65-B233-282396418000}
+Property(S): ITANIUM = AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx
+Property(S): INSTALLDIR = C:\Java\JRE\
+Property(S): deleteinstallerexe = C:\Java\JRE\
+Property(S): SILENT = /s
+Property(S): INSTALL_SILENT = 1
+Property(S): REPAIRMODE = 0
+Property(S): ARPINSTALLLOCATION = C:\Java\JRE\
+Property(S): ARPPRODUCTICON = C:\Java\JRE\\bin\javaws.exe
+Property(S): MSICMDLINE = /s INSTALLCFG="C:\jcfg42.txt" INSTALL_SILENT=1
+Property(S): CMDLINE = /s INSTALLDIR="C:\Java\JRE\\" WEB_JAVA=Enable WEB_ANALYTICS=Disable INSTALLCFG="C:\jcfg42.txt" INSTALL_SILENT=1 REPAIRMODE=0 ProductCode={26A24AE4-039D-4CA4-87B4-2F64180241F0}
+Property(S): _b8561938743986152bb2ee373a8d75ad = C:\Java\JRE\bin\dtplugin\
+Property(S): bin = C:\Java\JRE\bin\
+Property(S): _6d48374b37a00457e1f08bafe7ba2dda = C:\Java\JRE\bin\plugin2\
+Property(S): _001a61a942509398ff9e5251fe7206d3 = C:\Java\JRE\bin\server\
+Property(S): _45f51046d19911303d987511d07fd09d = C:\Java\JRE\lib\amd64\
+Property(S): lib = C:\Java\JRE\lib\
+Property(S): _d878822f4918e07c26e3734b38129527 = C:\Java\JRE\lib\applet\
+Property(S): _c2d55fde7f416db49c114d6bbf5af1ea = C:\Java\JRE\lib\cmm\
+Property(S): _af4c2cd3f329594ff7e36333541620e5 = C:\Java\JRE\lib\deploy\
+Property(S): _0c75b84d1f54adf58811ac9c654e761d = C:\Java\JRE\lib\ext\
+Property(S): _5e1f669a5e9d610a961db04cbf67fac1 = C:\Java\JRE\lib\fonts\
+Property(S): _5a3e43326288376ac3187591163d3e2f = C:\Java\JRE\lib\images\cursors\
+Property(S): _7d1f0c8cd0b6b5085edce7191d2e13fc = C:\Java\JRE\lib\images\
+Property(S): _d1ed20383ad490620fad8f7ef2604694 = C:\Java\JRE\lib\jfr\
+Property(S): _f77a91ab67770066f2f70a4e866bd6f2 = C:\Java\JRE\lib\management\
+Property(S): _9e9c1d68a5877ae9e0a0f6da0e319def = C:\Java\JRE\lib\security\policy\limited\
+Property(S): _1b1245816caef90e460581e15a152088 = C:\Java\JRE\lib\security\policy\
+Property(S): _b62ba9979d9717a5fa931c4a59913eac = C:\Java\JRE\lib\security\policy\unlimited\
+Property(S): _ac8c9a16cf533cc43453382b858e383f = C:\Java\JRE\lib\security\
+Property(S): JAVA = C:\Program Files\Java\
+Property(S): ProgramFiles64Folder = C:\Program Files\
+Property(S): TARGETDIR = C:\
+Property(S): SourceDir = C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\
+Property(S): VersionNT = 603
+Property(S): Privileged = 1
+Property(S): ALLUSERS = 1
+Property(S): ARPREADME = [INSTALLDIR]README.txt
+Property(S): ARPURLUPDATEINFO = https://java.sun.com
+Property(S): AUTOUPDATECHECK = 1
+Property(S): CLOSETEXT = Close
+Property(S): Enterprise = no
+Property(S): IMPERSONATE = 0
+Property(S): JAVATYPE = JRE
+Property(S): JAVAUPDATE = 1
+Property(S): MSIRESTARTMANAGERCONTROL = Disable
+Property(S): REINSTALLMODE = amus
+Property(S): FROMVERSION = NA
+Property(S): IS32BITMSI = 0
+Property(S): INSTALL_OPTIONS = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8aW5zdGFsbG9wdGlvbnM+DQogICAgPHByb3BlcnR5IG5hbWU9IklOU1RBTExESVIiIHR5cGU9IkZPTERFUlBBVEgiPg0KICAgICAgICA8ZGVzY3JpcHRpb25zPkluc3RhbGxhdGlvbiBkaXJlY3Rvcnk8L2Rlc2NyaXB0aW9ucz4NCiAgICA8L3Byb3BlcnR5Pg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJTVEFUSUMiIHR5cGU9IkJPT0xFQU4iPg0KICAgICAgICA8ZGVzY3JpcHRpb25zPlN0YXRpYyBJbnN0YWxsPC9kZXNjcmlwdGlvbnM+DQogICAgICAgIDxkZWZhdWx0PjA8L2RlZmF1bHQ+DQogICAgPC9wcm9wZXJ0eT4NCiAgICA8cHJvcGVydHkgbmFtZT0iV0VCX0pBVkEiIHR5cGU9IkJPT0xFQU4iPg0KICAgICAgICA8ZGVzY3JpcHRpb25zPkVuYWJsZSBKYXZhIGNvbnRlbnRzIGluIGJyb3dzZXJzPC9kZXNjcmlwdGlvbnM+DQogICAgICAgIDxwb3NzaWJsZVZhbHVlcz4NCiAgICAgICAgICAgIDx2YWx1ZT5FbmFibGU8L3ZhbHVlPg0KICAgICAgICAgICAgPHZhbHVlPkRpc2FibGU8L3ZhbHVlPg0KICAgICAgICA8L3Bvc3NpYmxlVmFsdWVzPg0KICAgICAgICA8ZGVmYXVsdD5FbmFibGU8L2RlZmF1bHQ+DQogICAgPC9wcm9wZXJ0eT4NCiAgICA8cHJvcGVydHkgbmFtZT0iV0VCX0pBVkFfU0VDVVJJVFlfTEVWRUwiIHR5cGU9IkNIT0lDRSI+DQogICAgICAgIDxkZXNjcmlwdGlvbnM+U2VjdXJpdHkgbGV2ZWwgZm9yIGFwcGxpY2F0aW9ucyBub3QgaW4gZXhjZXB0aW9uIGxpc3Q8L2Rlc2NyaXB0aW9ucz4NCiAgICAgICAgPHBvc3NpYmxlVmFsdWVzPg0KICAgICAgICAgICAgPHZhbHVlPkg8L3ZhbHVlPg0KICAgICAgICAgICAgPHZhbHVlPlZIPC92YWx1ZT4NCiAgICAgICAgPC9wb3NzaWJsZVZhbHVlcz4NCiAgICAgICAgPGRlZmF1bHQ+SDwvZGVmYXVsdD4NCiAgICA8L3Byb3BlcnR5Pg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJFVUxBIiB0eXBlPSJCT09MRUFOIj4NCiAgICAgICAgPGRlc2NyaXB0aW9ucz5FbmQgVXNlciBMaWNlbnNlIEFncmVlbWVudDwvZGVzY3JpcHRpb25zPg0KICAgICAgICA8ZGVmYXVsdD4wPC9kZWZhdWx0Pg0KICAgIDwvcHJvcGVydHk+DQogICAgPHByb3BlcnR5IG5hbWU9IklOU1RBTExDRkciIHR5cGU9IkZJTEVQQVRIIj4NCiAgICAgICAgPGRlc2NyaXB0aW9ucz5JbnN0YWxsIGNvbmZpZ3VyYXRpb24gZmlsZTwvZGVzY3JpcHRpb25zPg0KICAgIDwvcHJvcGVydHk+DQogICAgPHByb3BlcnR5IG5hbWU9IlVTQUdFVFJBQ0tFUl9DRkciIHR5cGU9IkZJTEVQQVRIIj4NCiAgICAgICAgPGRlc2NyaXB0aW9ucz5KYXZhIFVzYWdlIFRyYWNrZXIgQ29uZmlndXJhdGlvbjwvZGVzY3JpcHRpb25zPg0KICAgIDwvcHJvcGVydHk+DQogICAgPHByb3BlcnR5IG5hbWU9IkRFUExPWU1FTlRfUlVMRV9TRVQiIHR5cGU9IkZJTEVQQVRIIj4NCiAgICAgICAgPGRlc2NyaXB0aW9ucz5EZXBsb3ltZW50IFJ1bGUgU2V0IEZpbGU8L2Rlc2NyaXB0aW9ucz4NCiAgICA8L3Byb3BlcnR5Pg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJOT1NUQVJUTUVOVSIgdHlwZT0iQk9PTEVBTiI+DQogICAgICAgIDxkZXNjcmlwdGlvbnM+QWRkIHNob3J0Y3V0cyB0byBzdGFydCBtZW51PC9kZXNjcmlwdGlvbnM+DQogICAgICAgIDxkZWZhdWx0PjA8L2RlZmF1bHQ+DQogICAgPC9wcm9wZXJ0eT4NCiAgICA8cHJvcGVydHkgbmFtZT0iUE9TVElOU1RBTExfSlNDUklQVCIgdHlwZT0iU0NSSVBUIj4NCiAgICAgICAgPGRlc2NyaXB0aW9ucz5Qb3N0LWluc3RhbGwgSlNjcmlwdDwvZGVzY3JpcHRpb25zPg0KICAgICAgICA8ZGVmYXVsdD4NCiAgICAgICAgPCFbQ0RBVEFbDQogICAgICAgIGZ1bmN0aW9uIG1haW4oKSB7DQogICAgICAgICAgICB2YXIgcmVjb3JkID0gU2Vzc2lvbi5JbnN0YWxsZXIuQ3JlYXRlUmVjb3JkKDApOw0KICAgICAgICAgICAgcmVjb3JkLlN0cmluZ0RhdGEoMCkgPSAiUnVuIHBvc3QtaW5zdGFsbCBqc2NyaXB0ISI7DQogICAgICAgICAgICBTZXNzaW9uLk1lc3NhZ2UoMHgwNDAwMDAwMCwgcmVjb3JkKTsNCiAgICAgICAgfQ0KICAgICAgICBdXT4NCiAgICAgICAgPC9kZWZhdWx0Pg0KICAgIDwvcHJvcGVydHk+DQogICAgPHByb3BlcnR5IG5hbWU9IlBSRUlOU1RBTExfSlNDUklQVCIgdHlwZT0iU0NSSVBUIj4NCiAgICAgICAgPGRlc2NyaXB0aW9ucz5QcmUtaW5zdGFsbCBKU2NyaXB0PC9kZXNjcmlwdGlvbnM+DQogICAgICAgIDxkZWZhdWx0Pg0KICAgICAgICA8IVtDREFUQVsNCiAgICAgICAgZnVuY3Rpb24gbWFpbigpIHsNCiAgICAgICAgICAgIHZhciByZWNvcmQgPSBTZXNzaW9uLkluc3RhbGxlci5DcmVhdGVSZWNvcmQoMCk7DQogICAgICAgICAgICByZWNvcmQuU3RyaW5nRGF0YSgwKSA9ICJSdW4gcHJlLWluc3RhbGwganNjcmlwdCEiOw0KICAgICAgICAgICAgU2Vzc2lvbi5NZXNzYWdlKDB4MDQwMDAwMDAsIHJlY29yZCk7DQogICAgICAgIH0NCiAgICAgICAgXV0+DQogICAgICAgIDwvZGVmYXVsdD4NCiAgICA8L3Byb3BlcnR5Pg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJQT1NUSU5TVEFMTF9WQlNDUklQVCIgdHlwZT0iU0NSSVBUIj4NCiAgICAgICAgPGRlc2NyaXB0aW9ucz5Qb3N0LWluc3RhbGwgVkJTY3JpcHQ8L2Rlc2NyaXB0aW9ucz4NCiAgICAgICAgPGRlZmF1bHQ+DQogICAgICAgIDwhW0NEQVRBWw0KICAgICAgICBGdW5jdGlvbiBtYWluKCkNCiAgICAgICAgICAgIERpbSBSZWNvcmQgOiBTZXQgUmVjb3JkID0gTm90aGluZw0KICAgICAgICAgICAgU2V0IFJlY29yZCA9IFNlc3Npb24uSW5zdGFsbGVyLkNyZWF0ZVJlY29yZCgwKQ0KICAgICAgICAgICAgUmVjb3JkLlN0cmluZ0RhdGEoMCkgPSAiUnVuIHBvc3QtaW5zdGFsbCB2YnNjcmlwdCEiDQogICAgICAgICAgICBTZXNzaW9uLk1lc3NhZ2UgJkgwNDAwMDAwMCwgUmVjb3JkDQogICAgICAgICAgICBTZXQgUmVjb3JkID0gTm90aGluZw0KICAgICAgICBFbmQgRnVuY3Rpb24NCiAgICAgICAgXV0+DQogICAgICAgIDwvZGVmYXVsdD4NCiAgICA8L3Byb3BlcnR5Pg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJQUkVJTlNUQUxMX1ZCU0NSSVBUIiB0eXBlPSJTQ1JJUFQiPg0KICAgICAgICA8ZGVzY3JpcHRpb25zPlByZS1pbnN0YWxsIFZCU2NyaXB0PC9kZXNjcmlwdGlvbnM+DQogICAgICAgIDxkZWZhdWx0Pg0KICAgICAgICA8IVtDREFUQVsNCiAgICAgICAgRnVuY3Rpb24gbWFpbigpDQogICAgICAgICAgICBEaW0gUmVjb3JkIDogU2V0IFJlY29yZCA9IE5vdGhpbmcNCiAgICAgICAgICAgIFNldCBSZWNvcmQgPSBTZXNzaW9uLkluc3RhbGxlci5DcmVhdGVSZWNvcmQoMCkNCiAgICAgICAgICAgIFJlY29yZC5TdHJpbmdEYXRhKDApID0gIlJ1biBwcmUtaW5zdGFsbCB2YnNjcmlwdCEiDQogICAgICAgICAgICBTZXNzaW9uLk1lc3NhZ2UgJkgwNDAwMDAwMCwgUmVjb3JkDQogICAgICAgICAgICBTZXQgUmVjb3JkID0gTm90aGluZw0KICAgICAgICBFbmQgRnVuY3Rpb24NCiAgICAgICAgXV0+DQogICAgICAgIDwvZGVmYXVsdD4NCiAgICA8L3Byb3BlcnR5Pg0KICAgIDxwcm9wZXJ0eSBuYW1lPSJSRU1PVkVPTERFUkpSRVMiIHR5cGU9IkJPT0xFQU4iPg0KICAgICAgICA8ZGVzY3JpcHRpb25zPlJlbW92ZSBvbGRlciBKYXZhIHZlcnNpb25zPC9kZXNjcmlwdGlvbnM+DQogICAgICAgIDxkZWZhdWx0PjA8L2RlZmF1bHQ+DQogICAgPC9wcm9wZXJ0eT4NCjwvaW5zdGFsbG9wdGlvbnM+DQo=
+Property(S): Registration = No
+Property(S): _IsMaintenance = Change
+Property(S): ApplicationUsers = AllUsers
+Property(S): ARPCONTACT = https://java.com
+Property(S): ARPHELPLINK = https://java.com/help
+Property(S): ARPNOREPAIR = 1
+Property(S): ARPURLINFOABOUT = https://java.com
+Property(S): ARPNOMODIFY = yes
+Property(S): description = 0
+Property(S): ODB = 0
+Property(S): PIDTemplate = 12345<###-%%%%%%%>@@@@@
+Property(S): ProductID = none
+Property(S): ProgressType0 = install
+Property(S): ProgressType1 = Installing
+Property(S): ProgressType2 = installed
+Property(S): ProgressType3 = installs
+Property(S): RebootYesNo = Yes
+Property(S): ReinstallModeText = omus
+Property(S): DWUSINTERVAL = 30
+Property(S): InstallChoice = AR
+Property(S): INSTALLLEVEL = 100
+Property(S): ISVROOT_PORT_NO = 0
+Property(S): MODIFYREMOVE = modify
+Property(S): FullVersion = 1.8.0_241-b07
+Property(S): JDK_VERSION = 1.8.0_241
+Property(S): MAJOR = 1
+Property(S): MINOR = 8
+Property(S): MICRO = 0
+Property(S): UPDATE = 241
+Property(S): Manufacturer = Oracle Corporation
+Property(S): ProductCode = {26A24AE4-039D-4CA4-87B4-2F64180241F0}
+Property(S): ProductLanguage = 1033
+Property(S): ProductName = Java 8 Update 241 (64-bit)
+Property(S): ProductVersion = 8.0.2410.7
+Property(S): SecureCustomProperties = ARPNOMODIFY;PREVIOUSVERSIONSINSTALLED8;PREVIOUSVERSIONSINSTALLED864;PREVIOUSVERSIONSINSTALLED8U20;PREVIOUSVERSIONSINSTALLED8U2064;PREVIOUSVERSIONSINSTALLED8U25;PREVIOUSVERSIONSINSTALLED8U2564;PREVIOUSVERSIONSINSTALLED8U31;PREVIOUSVERSIONSINSTALLED8U3164;PREVIOUSVERSIONSINSTALLED8U40;PREVIOUSVERSIONSINSTALLED8U4064;PREVIOUSVERSIONSINSTALLED9;PREVIOUSVERSIONSINSTALLEDCONSUMER6;PREVIOUSVERSIONSINSTALLEDCONSUMER664;PREVIOUSVERSIONSINSTALLEDCONSUMER7;PREVIOUSVERSIONSINSTALLEDCONSUMER764;PREVIOUSVERSIONSINSTALLEDENT7;PREVIOUSVERSIONSINSTALLEDENT764
+Property(S): MsiLogFileLocation = C:\jre-log.log
+Property(S): PackageCode = {6A188D4B-E123-4138-8A0E-7A5B16115217}
+Property(S): ProductState = -1
+Property(S): PackagecodeChanging = 1
+Property(S): WEB_JAVA = Enable
+Property(S): WEB_ANALYTICS = Disable
+Property(S): INSTALLCFG = C:\jcfg42.txt
+Property(S): CURRENTDIRECTORY = C:\Users\itrus\AppData\Local\Temp\jds221161296.tmp
+Property(S): CLIENTUILEVEL = 3
+Property(S): MSICLIENTUSESEXTERNALUI = 1
+Property(S): CLIENTPROCESSID = 7100
+Property(S): VersionDatabase = 200
+Property(S): VersionMsi = 5.00
+Property(S): VersionNT64 = 603
+Property(S): WindowsBuild = 9600
+Property(S): ServicePackLevel = 0
+Property(S): ServicePackLevelMinor = 0
+Property(S): MsiNTProductType = 1
+Property(S): MsiNTSuitePersonal = 1
+Property(S): WindowsFolder = C:\WINDOWS\
+Property(S): WindowsVolume = C:\
+Property(S): System64Folder = C:\WINDOWS\system32\
+Property(S): SystemFolder = C:\WINDOWS\SysWOW64\
+Property(S): RemoteAdminTS = 1
+Property(S): TempFolder = C:\Users\itrus\AppData\Local\Temp\
+Property(S): ProgramFilesFolder = C:\Program Files (x86)\
+Property(S): CommonFilesFolder = C:\Program Files (x86)\Common Files\
+Property(S): CommonFiles64Folder = C:\Program Files\Common Files\
+Property(S): AppDataFolder = C:\Users\itrus\AppData\Roaming\
+Property(S): FavoritesFolder = C:\Users\itrus\Favorites\
+Property(S): NetHoodFolder = C:\Users\itrus\AppData\Roaming\Microsoft\Windows\Network Shortcuts\
+Property(S): PersonalFolder = C:\Users\itrus\Documents\
+Property(S): PrintHoodFolder = C:\Users\itrus\AppData\Roaming\Microsoft\Windows\Printer Shortcuts\
+Property(S): RecentFolder = C:\Users\itrus\AppData\Roaming\Microsoft\Windows\Recent\
+Property(S): SendToFolder = C:\Users\itrus\AppData\Roaming\Microsoft\Windows\SendTo\
+Property(S): TemplateFolder = C:\ProgramData\Microsoft\Windows\Templates\
+Property(S): CommonAppDataFolder = C:\ProgramData\
+Property(S): LocalAppDataFolder = C:\Users\itrus\AppData\Local\
+Property(S): MyPicturesFolder = C:\Users\itrus\Pictures\
+Property(S): AdminToolsFolder = C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\
+Property(S): StartupFolder = C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\
+Property(S): ProgramMenuFolder = C:\ProgramData\Microsoft\Windows\Start Menu\Programs\
+Property(S): StartMenuFolder = C:\ProgramData\Microsoft\Windows\Start Menu\
+Property(S): DesktopFolder = C:\Users\Public\Desktop\
+Property(S): FontsFolder = C:\WINDOWS\Fonts\
+Property(S): GPTSupport = 1
+Property(S): OLEAdvtSupport = 1
+Property(S): ShellAdvtSupport = 1
+Property(S): MsiAMD64 = 23
+Property(S): Msix64 = 23
+Property(S): Intel = 23
+Property(S): PhysicalMemory = 6094
+Property(S): VirtualMemory = 5767
+Property(S): AdminUser = 1
+Property(S): MsiTrueAdminUser = 1
+Property(S): LogonUser = itrus
+Property(S): UserSID = S-1-5-21-4157652932-2300814647-2387426224-1001
+Property(S): UserLanguageID = 1049
+Property(S): ComputerName = LAPTOP-2A2KCKS3
+Property(S): SystemLanguageID = 1049
+Property(S): ScreenX = 1024
+Property(S): ScreenY = 768
+Property(S): CaptionHeight = 19
+Property(S): BorderTop = 1
+Property(S): BorderSide = 1
+Property(S): MsiTabletPC = 1
+Property(S): TextHeight = 16
+Property(S): TextInternalLeading = 3
+Property(S): ColorBits = 32
+Property(S): TTCSupport = 1
+Property(S): Time = 15:33:11
+Property(S): Date = 28.03.2020
+Property(S): MsiNetAssemblySupport = 4.8.3752.0
+Property(S): MsiWin32AssemblySupport = 6.3.18362.719
+Property(S): RedirectedDllSupport = 2
+Property(S): MsiRunningElevated = 1
+Property(S): USERNAME = itrushin99@gmail.com
+Property(S): DATABASE = C:\WINDOWS\Installer\d2eaca3.msi
+Property(S): OriginalDatabase = C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\jre1.8.0_24164.msi
+Property(S): UILevel = 2
+Property(S): ACTION = INSTALL
+Property(S): REMOVEOLDERJRES = 0
+Property(S): ROOTDRIVE = C:\
+Property(S): CostingComplete = 1
+Property(S): OutOfDiskSpace = 0
+Property(S): OutOfNoRbDiskSpace = 0
+Property(S): PrimaryVolumeSpaceAvailable = 0
+Property(S): PrimaryVolumeSpaceRequired = 0
+Property(S): PrimaryVolumeSpaceRemaining = 0
+Property(S): SOURCEDIR = C:\Users\itrus\AppData\LocalLow\Oracle\Java\jre1.8.0_241_x64\
+Property(S): SourcedirProduct = {26A24AE4-039D-4CA4-87B4-2F64180241F0}
+Property(S): ProductToBeRegistered = 1
+MSI (s) (84:64) [15:33:11:441]: Note: 1: 1707
+MSI (s) (84:64) [15:33:11:441]: Product: Java 8 Update 241 (64-bit) -- Installation completed successfully.
+
+MSI (s) (84:64) [15:33:11:442]: Установщик Windows выполнил установку продукта. Продукт: Java 8 Update 241 (64-bit). Версия: 8.0.2410.7. Язык: 1033. Изготовитель: Oracle Corporation. Установка завершена с состоянием: 0.
+
+MSI (s) (84:64) [15:33:11:456]: Deferring clean up of packages/files, if any exist
+MSI (s) (84:64) [15:33:11:456]: MainEngineThread is returning 0
+MSI (s) (84:B8) [15:33:11:456]: No System Restore sequence number for this installation.
+=== Logging stopped: 28.03.2020  15:33:11 ===
+MSI (s) (84:B8) [15:33:11:461]: User policy value 'DisableRollback' is 0
+MSI (s) (84:B8) [15:33:11:461]: Machine policy value 'DisableRollback' is 0
+MSI (s) (84:B8) [15:33:11:461]: Incrementing counter to disable shutdown. Counter after increment: 0
+MSI (s) (84:B8) [15:33:11:461]: Note: 1: 1402 2: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Installer\Rollback\Scripts 3: 2
+MSI (s) (84:B8) [15:33:11:464]: Note: 1: 2265 2:  3: -2147287035
+MSI (s) (84:B8) [15:33:11:464]: Note: 1: 1402 2: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Installer\Rollback\Scripts 3: 2
+MSI (s) (84:B8) [15:33:11:465]: Decrementing counter to disable shutdown. If counter >= 0, shutdown will be denied.  Counter after decrement: -1
+MSI (s) (84:B8) [15:33:11:466]: Destroying RemoteAPI object.
+MSI (s) (84:2C) [15:33:11:466]: Custom Action Manager thread ending.
+MSI (c) (BC:A8) [15:33:11:467]: Decrementing counter to disable shutdown. If counter >= 0, shutdown will be denied.  Counter after decrement: -1
+MSI (c) (BC:A8) [15:33:11:471]: MainEngineThread is returning 0
+=== Verbose logging stopped: 28.03.2020  15:33:11 ===
