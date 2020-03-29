@@ -1,6 +1,7 @@
 # os-1-msinstall
 ## Задание 1. Создание скрипта для автоматизации установки под Windows
 ---
+---
 ### `software-installer.bat`
 \
 __7-zip installer__
